@@ -1,0 +1,40 @@
+import chess
+import chess.pgn
+import csv
+
+def pgn_to_rows(pgn_path, color_label):
+    rows = []
+    with open(pgn_path, encoding="utf-8") as f:
+        game_id = 0
+        while True:
+            game = chess.pgn.read_game(f)
+            if game is None:
+                break
+            game_id += 1
+            board = game.board()
+            result = game.headers.get("Result", "")
+            for ply, move in enumerate(game.mainline_moves(), start=1):
+                san = board.san(move)
+                uci = move.uci()
+                side = "White" if board.turn == chess.WHITE else "Black"
+                move_number = (ply + 1) // 2
+                rows.append({
+                    "game_id": game_id,
+                    "color_file": color_label,  # "white_file" / "black_file"
+                    "side_to_move": side,
+                    "move_number": move_number,
+                    "ply": ply,
+                    "san": san,
+                    "uci": uci,
+                    "result": result,
+                })
+                board.push(move)
+    return rows
+
+white_rows = pgn_to_rows("MAF13-white.pgn", "white_file")
+black_rows = pgn_to_rows("MAF13-black.pgn", "black_file")
+
+with open("games_raw.csv", "w", newline="", encoding="utf-8") as f:
+    writer = csv.DictWriter(f, fieldnames=white_rows[0].keys())
+    writer.writeheader()
+    writer.writerows(white_rows + black_rows)

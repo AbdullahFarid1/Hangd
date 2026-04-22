@@ -1,0 +1,1704 @@
+your_color,opening_name,eco,draw,loss,win,total,win_rate
+Black,Alapin Sicilian Defense,B22,6,84,91,181,0.5027624309392266
+Black,Alapin Sicilian Defense 2,B22,2,60,62,124,0.5
+Black,Alapin Sicilian Defense Barmen Defense 4.d4 Nc6,B22,0,0,1,1,1.0
+Black,Alapin Sicilian Defense Barmen Defense 4.d4 cxd4 5.cxd4 Nc6,B22,0,1,0,1,0.0
+Black,Alekhines Defense Scandinavian Variation 3.exd5,B02,1,0,1,2,0.5
+Black,Alekhines Defense Scandinavian Variation 3.exd5 Nxd5,B02,0,0,1,1,1.0
+Black,Anderssen Opening,A00,0,4,3,7,0.42857142857142855
+Black,Anderssen Opening 1,A00,0,0,1,1,1.0
+Black,Benoni Defense Hromadka System,A57,0,2,0,2,0.0
+Black,Benoni Defense Hromadka System 4.Nc3,A57,0,0,1,1,1.0
+Black,Benoni Defense Modern Classical Variation 7,A70,0,1,1,2,0.5
+Black,Benoni Defense Modern Kings Pawn Line,A65,0,8,13,21,0.6190476190476191
+Black,Benoni Defense Modern Variation,A60,0,1,0,1,0.0
+Black,Benoni Defense Modern Variation 4.Nc3 d6,A60,2,16,17,35,0.4857142857142857
+Black,Benoni Defense Modern Variation 4.Nc3 d6 5.e4,A60,0,65,64,129,0.49612403100775193
+Black,Benoni Defense Modern Variation 4.Nc3 exd5 5.cxd5 d6 6.Nf3,A60,0,2,2,4,0.5
+Black,Benoni Defense Weenink Variation,A56,0,2,0,2,0.0
+Black,Benoni Defense Weenink Variation 4.Nf3 Bxc5,A56,0,1,1,2,0.5
+Black,Birds Opening 1,A02,1,25,16,42,0.38095238095238093
+Black,Birds Opening Dutch Variation,A03,0,1,0,1,0.0
+Black,Birds Opening Dutch Variation 2.Nf3,A03,0,0,1,1,1.0
+Black,Birds Opening Dutch Variation 2.Nf3 c5 3.e3,A03,0,2,0,2,0.0
+Black,Birds Opening Froms Gambit 2.fxe5,A02,0,1,0,1,0.0
+Black,Bishops Opening 2,C23,0,3,1,4,0.25
+Black,Bishops Opening Berlin Defense,C24,0,1,0,1,0.0
+Black,Bishops Opening Berlin Vienna Hybrid Variation 4,C28,0,0,2,2,1.0
+Black,Caro Kann Defense,B10,0,2,1,3,0.3333333333333333
+Black,Caro Kann Defense 2.Nf3,B10,0,1,2,3,0.6666666666666666
+Black,Caro Kann Defense 2.Nf3 d5 3.exd5,B10,0,1,0,1,0.0
+Black,Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5,B10,0,1,0,1,0.0
+Black,Caro Kann Defense 2.d4,B12,0,0,3,3,1.0
+Black,Caro Kann Defense 2.f4 d5,B10,0,0,1,1,1.0
+Black,Caro Kann Defense Accelerated Panov Modern Variation 5.Nc3 Nxd5 6.Nf3 Nc6 7.d4,B10,0,1,1,2,0.5
+Black,Caro Kann Defense Advance Botvinnik Carls Defense 4.dxc5,B12,0,1,0,1,0.0
+Black,Caro Kann Defense Breyer Variation,B10,0,0,1,1,1.0
+Black,Caro Kann Defense Exchange Rubinstein Variation 6,B13,0,5,4,9,0.4444444444444444
+Black,Caro Kann Defense Exchange Variation,B13,0,7,2,9,0.2222222222222222
+Black,Caro Kann Defense Exchange Variation 3,B13,1,5,9,15,0.6
+Black,Caro Kann Defense Fantasy Variation,B12,0,1,0,1,0.0
+Black,Caro Kann Defense Panov Attack,B14,0,18,12,30,0.4
+Black,Caro Kann Defense Panov Attack 4,B13,0,8,6,14,0.42857142857142855
+Black,Caro Kann Defense Panov Attack 4,B14,0,1,3,4,0.75
+Black,Caro Kann Defense Panov Modern Carlsbad Line,B13,0,0,1,1,1.0
+Black,Caro Kann Defense Panov Modern Carlsbad Line 7.Nf3,B13,0,0,1,1,1.0
+Black,Caro Kann Defense Panov Modern Carlsbad Line 7.Nf3 Be7,B13,0,3,1,4,0.25
+Black,Caro Kann Defense Panov Modern Carlsbad Line 7.Nf3 Be7 8.c5 O O,B13,0,0,1,1,1.0
+Black,Caro Kann Defense Panov Modern Carlsbad Line 7.c5,B13,0,1,0,1,0.0
+Black,Caro Kann Defense Panov Modern Defense,B13,0,0,2,2,1.0
+Black,Caro Kann Defense Panov Modern Mieses Line,B13,0,0,2,2,1.0
+Black,Catalan Opening Closed 4,E04,0,1,0,1,0.0
+Black,Center Game,C21,0,0,3,3,1.0
+Black,Clemenz Opening,A00,0,3,1,4,0.25
+Black,Closed Sicilian Defense,B23,0,0,2,2,1.0
+Black,Closed Sicilian Defense 2,B23,1,41,51,93,0.5483870967741935
+Black,Closed Sicilian Defense Fianchetto Variation,B24,0,6,9,15,0.6
+Black,Closed Sicilian Defense Fianchetto Variation 3,B24,2,5,9,16,0.5625
+Black,Closed Sicilian Defense Grand Prix Attack,B23,0,5,8,13,0.6153846153846154
+Black,Closed Sicilian Defense Grand Prix Attack 3,B23,3,30,33,66,0.5
+Black,Closed Sicilian Defense Traditional Line,B23,0,0,1,1,1.0
+Black,Closed Sicilian Defense Traditional Line 3.Bb5 e6,B23,0,0,1,1,1.0
+Black,Closed Sicilian Defense Traditional Line 3.Bb5 e6 4.Bxc6 bxc6,B23,0,4,0,4,0.0
+Black,Closed Sicilian Defense Traditional Line 3.Nf3 e5,B23,0,1,0,1,0.0
+Black,Colle System 3,D04,0,0,1,1,1.0
+Black,Colle System 3,D05,0,1,3,4,0.75
+Black,Colle System Rubinstein Opening 5,D05,0,1,0,1,0.0
+Black,Colle System Traditional Line,D05,0,0,1,1,1.0
+Black,Danish Gambit,C21,0,0,1,1,1.0
+Black,Dutch Defense 2.Bf4 Nf6 3.e3 e6,A80,0,0,1,1,1.0
+Black,Dutch Defense 2.Bf4 Nf6 3.e3 g6,A80,1,0,0,1,0.0
+Black,Dutch Defense 2.Nf3 Nf6 3.Bf4 e6,A80,0,1,0,1,0.0
+Black,Dutch Defense Classical Rubinstein Variation 3,A84,0,1,0,1,0.0
+Black,Dutch Defense Classical Variation 3.Nf3 Nf6,A84,0,1,0,1,0.0
+Black,Dutch Defense Classical Variation 3.Nf3 Nf6 4.e3,A84,0,1,0,1,0.0
+Black,Dutch Defense Staunton Gambit Accepted 3.Nc3 Nf6,A82,0,0,1,1,1.0
+Black,English Opening 1,A10,0,1,1,2,0.5
+Black,English Opening Agincourt Defense,A13,0,9,3,12,0.25
+Black,English Opening Agincourt Defense 2.Nc3 c5 3.Nf3 Nf6,A13,0,2,2,4,0.5
+Black,English Opening Agincourt Defense 2.g3 c5 3.Bg2 Nc6,A13,1,2,1,4,0.25
+Black,English Opening Agincourt Wimpey System 5,A13,0,2,1,3,0.3333333333333333
+Black,English Opening Anglo Indian Anglo Grunfeld Defense 3.cxd5,A16,0,1,0,1,0.0
+Black,English Opening Anglo Indian Defense 2.g3 c5 3.Bg2 e6,A15,0,1,1,2,0.5
+Black,English Opening Anglo Indian Defense 2.g3 c5 3.Bg2 g6,A15,0,1,0,1,0.0
+Black,English Opening Anglo Indian Defense 2.g3 e6 3.Bg2,A15,0,1,0,1,0.0
+Black,English Opening Anglo Indian Queens Knight Variation,A16,0,1,0,1,0.0
+Black,English Opening Anglo Indian Queens Knight Variation 2,A17,0,2,0,2,0.0
+Black,English Opening Anglo Scandinavian Defense 2.cxd5 Qxd5 3.Nc3,A10,0,1,0,1,0.0
+Black,English Opening Anglo Scandinavian Malvinas Variation,A10,0,1,1,2,0.5
+Black,English Opening Caro Kann Defensive System,A11,1,1,0,2,0.0
+Black,English Opening Caro Kann Defensive System 2.Nf3 d5 3.e3 Nf6,A11,0,0,1,1,1.0
+Black,English Opening Kings English Variation,A20,1,0,1,2,0.5
+Black,English Opening Kings English Variation 2.e3,A20,1,0,0,1,0.0
+Black,English Opening Mikenas Carls Sicilian Variation,A19,0,1,2,3,0.6666666666666666
+Black,English Opening Neo Catalan Defense,A13,0,2,0,2,0.0
+Black,English Opening Neo Catalan Defense 4.Bg2 c5 5.cxd5 exd5,A13,0,1,0,1,0.0
+Black,English Opening Reversed Sicilian Kramnik Shirov Counterattack,A21,0,0,1,1,1.0
+Black,English Opening Symmetrical Anti Benoni Variation,A31,0,1,0,1,0.0
+Black,English Opening Symmetrical Anti Benoni Variation,A32,0,0,2,2,1.0
+Black,English Opening Symmetrical Anti Benoni Variation,A33,0,8,5,13,0.38461538461538464
+Black,English Opening Symmetrical Anti Benoni Variation 3,A31,0,0,1,1,1.0
+Black,English Opening Symmetrical Fianchetto Variation,A34,0,0,2,2,1.0
+Black,English Opening Symmetrical Fianchetto Variation 3,A34,0,1,0,1,0.0
+Black,English Opening Symmetrical Four Knights Variation 4.e3 e6,A35,0,1,1,2,0.5
+Black,English Opening Symmetrical Three Knights Keres Parma System 5.Bg2,A34,0,1,1,2,0.5
+Black,English Opening Symmetrical Three Knights Keres Parma System 5.Bg2 Be7,A34,1,1,0,2,0.0
+Black,English Opening Symmetrical Three Knights Keres Parma System 5.Bg2 Be7 6.O O,A34,0,1,1,2,0.5
+Black,English Opening Symmetrical Three Knights Keres Parma System 5.Bg2 Be7 6.O O O O,A34,0,1,0,1,0.0
+Black,English Opening Symmetrical Three Knights Keres Parma System 5.Bg2 d5 6.cxd5 exd5,A34,0,4,2,6,0.3333333333333333
+Black,English Opening Symmetrical Three Knights System,A34,0,2,3,5,0.6
+Black,English Opening Symmetrical Three Knights System 3,A34,0,4,4,8,0.5
+Black,English Opening Symmetrical Two Knights Fianchetto Variation,A36,0,6,1,7,0.14285714285714285
+Black,English Opening Symmetrical Two Knights Fianchetto Variation 3,A36,0,13,13,26,0.5
+Black,English Opening Symmetrical Two Knights Variation,A35,0,0,1,1,1.0
+Black,English Opening Symmetrical Two Knights Variation 3.Nf3 e6,A35,0,1,2,3,0.6666666666666666
+Black,English Opening Symmetrical Variation,A30,0,11,13,24,0.5416666666666666
+Black,English Opening Symmetrical Variation 2.Nc3,A34,0,0,3,3,1.0
+Black,English Opening Symmetrical Variation 2.Nc3 e6,A34,0,2,11,13,0.8461538461538461
+Black,English Opening Symmetrical Variation 2.Nf3 Nc6 3.e3 Nf6,A30,0,1,0,1,0.0
+Black,English Opening Symmetrical Variation 2.Nf3 Nf6 3.e3 e6,A30,0,2,0,2,0.0
+Black,English Opening Symmetrical Variation 2.Nf3 e6,A30,0,1,1,2,0.5
+Black,English Opening Symmetrical Variation 2.b3,A30,0,2,1,3,0.3333333333333333
+Black,English Opening Symmetrical Variation 2.b3 Nc6,A30,0,0,1,1,1.0
+Black,English Opening Symmetrical Variation 2.g3,A30,0,1,0,1,0.0
+Black,Englund Gambit,A40,0,2,0,2,0.0
+Black,Englund Gambit 2.dxe5 Nc6 3.Nf3,A40,0,1,0,1,0.0
+Black,Four Knights Game,C47,0,0,1,1,1.0
+Black,Four Knights Game Double Spanish Nimzowitsch Variation 6,C49,0,1,0,1,0.0
+Black,Four Knights Game Italian Variation 4,C47,0,0,1,1,1.0
+Black,Four Knights Game Scotch Variation,C47,0,1,0,1,0.0
+Black,Four Knights Game Scotch Variation Accepted,C47,0,4,6,10,0.6
+Black,Four Knights Game Scotch Variation Accepted 5.Nxd4,C47,0,0,1,1,1.0
+Black,Four Knights Game Scotch Variation Accepted 5.Nxd4 Bb4 6.Nxc6 bxc6,C47,0,0,1,1,1.0
+Black,Four Knights Game Scotch Variation Accepted 5.Nxd4 d6,C47,0,1,1,2,0.5
+Black,Four Knights Game Spanish Variation,C48,0,1,1,2,0.5
+Black,Four Knights Game Spanish Variation Ranken Variation,C48,0,1,0,1,0.0
+Black,French Defense Advance Nimzowitsch System,C02,0,1,2,3,0.6666666666666666
+Black,French Defense Advance Nimzowitsch System 4,C02,0,0,2,2,1.0
+Black,French Defense Advance Paulsen Attack,C02,0,27,32,59,0.5423728813559322
+Black,French Defense Advance Paulsen Attack 5,C02,3,47,55,105,0.5238095238095238
+Black,French Defense Advance Paulsen Main Line 6,C02,0,1,0,1,0.0
+Black,French Defense Advance Paulsen Main Line Lputian Variation 7.b4 cxd4 8.cxd4 Nf5 9.Be3,C02,0,0,1,1,1.0
+Black,French Defense Advance Paulsen Milner Barry Gambit 6,C02,0,1,0,1,0.0
+Black,French Defense Advance Steinitz Variation,C02,0,1,0,1,0.0
+Black,French Defense Advance Steinitz Variation 4,C02,0,0,1,1,1.0
+Black,French Defense Advance Variation 3,C02,0,0,1,1,1.0
+Black,French Defense Chigorin Variation 2,C00,0,2,2,4,0.5
+Black,French Defense Classical MacCutcheon Exchange Variation 5,C12,0,1,0,1,0.0
+Black,French Defense Classical Steinitz Variation,C11,0,1,2,3,0.6666666666666666
+Black,French Defense Exchange Variation 3,C01,0,1,0,1,0.0
+Black,French Defense Franco Sicilian Defense,C00,2,18,22,42,0.5238095238095238
+Black,French Defense Kings Indian Attack,C00,0,0,2,2,1.0
+Black,French Defense Kings Indian Attack 2,C00,2,26,37,65,0.5692307692307692
+Black,French Defense Knight Variation Two Knights Variation,C00,0,1,0,1,0.0
+Black,French Defense Knight Variation Wing Gambit,C00,0,0,2,2,1.0
+Black,French Defense Knight Variation Wing Gambit 4,C00,0,1,0,1,0.0
+Black,French Defense La Bourdonnais Variation,C00,0,14,17,31,0.5483870967741935
+Black,French Defense La Bourdonnais Variation 2,C00,0,2,3,5,0.6
+Black,French Defense Normal Variation,C00,0,1,0,1,0.0
+Black,French Defense Normal Variation,C10,0,1,0,1,0.0
+Black,French Defense Normal Variation 2,C10,0,3,0,3,0.0
+Black,French Defense Steiner Variation 2,C00,0,2,0,2,0.0
+Black,French Defense Tarrasch Open Suchting Line 4,C07,0,2,2,4,0.5
+Black,Giuoco Piano Game 4.O O Nf6 5.Nc3 d6,C50,0,0,1,1,1.0
+Black,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation 5,C50,0,1,0,1,0.0
+Black,Grob Opening,A00,0,4,7,11,0.6363636363636364
+Black,Grob Opening 1,A00,0,1,0,1,0.0
+Black,Indian Game,A45,0,8,2,10,0.2
+Black,Indian Game 2.Bf4 e6,A45,0,1,0,1,0.0
+Black,Indian Game 2.Bf4 e6 3.e3 d5,A45,0,1,1,2,0.5
+Black,Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3,A45,0,1,1,2,0.5
+Black,Indian Game 2.Bf4 e6 3.e3 d5 4.Nf3,A45,0,2,1,3,0.3333333333333333
+Black,Indian Game East Indian Anti Nimzo Indian Variation,E10,0,3,1,4,0.25
+Black,Indian Game East Indian Anti Nimzo Indian Variation 3,E10,0,11,4,15,0.26666666666666666
+Black,Indian Game East Indian Defense,E00,1,2,0,3,0.0
+Black,Indian Game East Indian Defense 3.a3 d5,E00,0,0,1,1,1.0
+Black,Indian Game East Indian Defense 3.a3 d5 4.Nc3,E00,0,0,2,2,1.0
+Black,Indian Game Knights Variation,A46,0,14,9,23,0.391304347826087
+Black,Indian Game Knights Variation 2,A46,0,0,1,1,1.0
+Black,Indian Game London System 3,A46,0,5,5,10,0.5
+Black,Indian Game Spielmann Indian Variation,A46,0,1,1,2,0.5
+Black,Indian Game Spielmann Indian Variation 3.c3 cxd4 4.cxd4,A46,0,1,0,1,0.0
+Black,Indian Game Spielmann Indian Variation 3.d5 e6 4.Nc3 d6,A46,0,3,5,8,0.625
+Black,Indian Game Spielmann Indian Variation 3.d5 e6 4.Nc3 d6 5.e4,A46,0,8,5,13,0.38461538461538464
+Black,Indian Game Spielmann Indian Variation 3.dxc5 e6,A46,1,2,4,7,0.5714285714285714
+Black,Indian Game Spielmann Indian Variation 3.e3 cxd4 4.exd4,A46,0,1,2,3,0.6666666666666666
+Black,Indian Game Tartakower Attack,A45,0,1,1,2,0.5
+Black,Indian Game Yusupov Rubinstein System,A46,0,1,0,1,0.0
+Black,Indian Game Yusupov Rubinstein System 3,A46,1,3,5,9,0.5555555555555556
+Black,Italian Game,C50,0,2,2,4,0.5
+Black,Italian Game Two Knights Modern Bishops Opening 4,C55,0,1,1,2,0.5
+Black,Kings Fianchetto Opening,A00,0,2,1,3,0.3333333333333333
+Black,Kings Fianchetto Opening 1,A00,0,1,0,1,0.0
+Black,Kings Fianchetto Opening Catalan Formation,A00,0,0,1,1,1.0
+Black,Kings Fianchetto Opening Indian Defense 2.Bg2 c5,A00,0,2,0,2,0.0
+Black,Kings Fianchetto Opening Reversed Modern Defense,A00,0,1,2,3,0.6666666666666666
+Black,Kings Fianchetto Opening Sicilian Invitation,A00,0,3,8,11,0.7272727272727273
+Black,Kings Fianchetto Opening Sicilian Invitation 2.Bg2,A00,1,28,18,47,0.3829787234042553
+Black,Kings Fianchetto Opening Sicilian Invitation 2.Bg2 Nc6,A00,0,2,1,3,0.3333333333333333
+Black,Kings Gambit 2,C30,0,1,0,1,0.0
+Black,Kings Gambit Accepted Modern Abbazia Defense 5.Bc4,C36,0,0,1,1,1.0
+Black,Kings Gambit Declined Falkbeer Accepted Staunton Line,C31,0,1,0,1,0.0
+Black,Kings Gambit Declined Falkbeer Accepted Staunton Rubinstein Variation,C31,0,1,0,1,0.0
+Black,Kings Gambit Declined Falkbeer Blackburne Attack,C31,0,0,1,1,1.0
+Black,Kings Gambit Declined Falkbeer Countergambit Accepted,C31,0,0,1,1,1.0
+Black,Kings Indian Attack French Variation,A08,1,3,2,6,0.3333333333333333
+Black,Kings Indian Attack French Variation 4.O O e6 5.d3 Nf6,A08,2,10,6,18,0.3333333333333333
+Black,Kings Indian Attack French Variation 4.O O e6 5.d3 Nf6 6.Nbd2,A08,0,5,5,10,0.5
+Black,Kings Indian Attack French Variation 4.d4 Nf6,A08,0,1,0,1,0.0
+Black,Kings Indian Attack French Variation 4.d4 cxd4 5.Nxd4,A08,0,0,1,1,1.0
+Black,Kings Indian Attack Sicilian Variation,A08,0,3,4,7,0.5714285714285714
+Black,Kings Indian Attack Yugoslav Variation,A07,0,0,1,1,1.0
+Black,Kings Indian Defense,E60,0,0,1,1,1.0
+Black,Kings Indian Defense Four Pawns Attack 5,E76,0,0,1,1,1.0
+Black,Kings Indian Defense Four Pawns Dynamic Line 7,E76,0,2,0,2,0.0
+Black,Kings Indian Defense Four Pawns Normal Attack 8,E77,0,0,1,1,1.0
+Black,Kings Indian Defense Makogonov Variation,E71,0,0,1,1,1.0
+Black,Kings Indian Defense Normal Variation,E70,0,1,2,3,0.6666666666666666
+Black,Kings Indian Defense Normal Variation,E90,0,1,1,2,0.5
+Black,Kings Indian Defense Orthodox Variation,E91,0,1,0,1,0.0
+Black,Kings Indian Defense Orthodox Variation 6,E91,0,1,0,1,0.0
+Black,Kings Indian Defense Samisch Steiner Attack 6,E81,0,0,1,1,1.0
+Black,Kings Pawn Opening,B00,1,2,1,4,0.25
+Black,Kings Pawn Opening 1,C20,0,3,4,7,0.5714285714285714
+Black,Kings Pawn Opening Latvian Gambit Accepted,C40,0,1,0,1,0.0
+Black,Kings Pawn Opening Leonardis Variation,C20,0,0,2,2,1.0
+Black,Kings Pawn Opening Leonardis Variation 2,C20,0,1,3,4,0.75
+Black,London System,D02,0,12,16,28,0.5714285714285714
+Black,London System 3,D02,0,7,7,14,0.5
+Black,Mieses Opening 1,A00,0,15,19,34,0.5588235294117647
+Black,Modern Defense Pterodactyl Defense,A40,0,2,1,3,0.3333333333333333
+Black,Modern Defense with 1 e4 2.d4 Bg7 3.Nf3,B06,0,1,0,1,0.0
+Black,Nimzowitsch Defense,B00,0,0,2,2,1.0
+Black,Nimzowitsch Defense 2.Nc3,B00,0,1,0,1,0.0
+Black,Nimzowitsch Defense 2.d4,B00,1,3,3,7,0.42857142857142855
+Black,Nimzowitsch Defense 2.d4 e6 3.Nf3 d5 4.e5,B00,0,0,1,1,1.0
+Black,Nimzowitsch Defense Declined,B00,0,3,2,5,0.4
+Black,Nimzowitsch Defense Declined 2,B00,0,1,1,2,0.5
+Black,Nimzowitsch Defense Scandinavian Advance Variation,B00,0,0,1,1,1.0
+Black,Nimzowitsch Defense Scandinavian Advance Variation 3,B00,0,1,0,1,0.0
+Black,Nimzowitsch Defense Scandinavian Exchange Variation 4.Nf3 e5,B00,0,1,0,1,0.0
+Black,Nimzowitsch Larsen Attack,A01,0,2,1,3,0.3333333333333333
+Black,Nimzowitsch Larsen Attack 1,A01,1,2,0,3,0.0
+Black,Nimzowitsch Larsen Attack Classical Variation 2.Bb2,A01,0,1,1,2,0.5
+Black,Nimzowitsch Larsen Attack Classical Variation 2.Bb2 Nf6 3.e3 c6,A01,0,0,1,1,1.0
+Black,Nimzowitsch Larsen Attack Classical Variation 2.Bb2 c5,A01,0,2,0,2,0.0
+Black,Nimzowitsch Larsen Attack Classical Variation 2.Bb2 e6,A01,0,0,1,1,1.0
+Black,Nimzowitsch Larsen Attack Classical Variation 2.e3 e5 3.Bb2,A01,0,0,1,1,1.0
+Black,Nimzowitsch Larsen Attack English Variation,A01,0,2,4,6,0.6666666666666666
+Black,Nimzowitsch Larsen Attack English Variation 2.Bb2,A01,0,18,24,42,0.5714285714285714
+Black,Nimzowitsch Larsen Attack English Variation 2.Bb2 Nc6,A01,0,1,0,1,0.0
+Black,Nimzowitsch Larsen Attack English Variation 2.Bb2 Nc6 3.e3,A01,0,2,0,2,0.0
+Black,Nimzowitsch Larsen Attack Indian Variation,A01,0,6,6,12,0.5
+Black,Nimzowitsch Larsen Attack Modern Variation 2.Bb2,A01,0,1,0,1,0.0
+Black,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6,A01,0,1,1,2,0.5
+Black,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5 4.Bb5,A01,0,1,0,1,0.0
+Black,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d6 4.Bb5,A01,0,0,1,1,1.0
+Black,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 d6,A01,0,0,1,1,1.0
+Black,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 d6 3.e3,A01,0,1,0,1,0.0
+Black,Nimzowitsch Larsen Attack Symmetrical Variation 2.Bb2 Bb7 3.e3,A01,0,1,0,1,0.0
+Black,Old Benoni Defense,A43,3,101,136,240,0.5666666666666667
+Black,Old Benoni Defense 2.c3 cxd4,A43,0,3,1,4,0.25
+Black,Old Benoni Defense 2.c3 cxd4 3.cxd4,A43,0,13,9,22,0.4090909090909091
+Black,Old Benoni Defense 2.c3 e6,A43,0,3,2,5,0.4
+Black,Old Benoni Defense 2.d5 d6,A43,0,4,5,9,0.5555555555555556
+Black,Old Benoni Defense 2.d5 d6 3.c4,A43,0,14,10,24,0.4166666666666667
+Black,Old Benoni Defense 2.d5 d6 3.e4,A43,0,12,10,22,0.45454545454545453
+Black,Old Benoni Defense 2.d5 d6 3.e4 Nf6,A43,0,0,1,1,1.0
+Black,Old Benoni Defense 2.d5 d6 3.e4 Nf6 4.Nc3,A43,0,1,2,3,0.6666666666666666
+Black,Old Benoni Defense 2.d5 e6,A43,1,7,6,14,0.42857142857142855
+Black,Old Benoni Defense 2.d5 e6 3.Nc3,A43,0,1,0,1,0.0
+Black,Old Benoni Defense 2.dxc5,A43,0,1,2,3,0.6666666666666666
+Black,Old Benoni Defense 2.dxc5 e6,A43,2,58,66,126,0.5238095238095238
+Black,Old Benoni Defense 2.dxc5 e6 3.Nc3,A43,0,2,1,3,0.3333333333333333
+Black,Old Benoni Defense 2.dxc5 e6 3.Nc3 Bxc5,A43,0,15,16,31,0.5161290322580645
+Black,Old Benoni Defense 2.dxc5 e6 3.Nc3 Bxc5 4.Ne4,A43,0,1,2,3,0.6666666666666666
+Black,Old Benoni Defense 2.e3 cxd4,A43,1,7,8,16,0.5
+Black,Old Benoni Defense 2.e3 cxd4 3.exd4,A43,2,26,18,46,0.391304347826087
+Black,Old Benoni Defense 2.e3 e6,A43,0,7,14,21,0.6666666666666666
+Black,Old Benoni Defense Benoni Indian Defense 3.Nc3 g6 4.e4 d6,A43,0,0,1,1,1.0
+Black,Old Benoni Defense Franco Benoni Defense,A43,0,21,8,29,0.27586206896551724
+Black,Old Benoni Defense Franco Benoni Defense 3,A43,1,7,8,16,0.5
+Black,Old Benoni Defense Schmid Variation,A43,0,5,5,10,0.5
+Black,Old Benoni Defense Semi Benoni Variation Blockade Variation,A44,0,0,1,1,1.0
+Black,Old Benoni Defense Semi Benoni Variation Blockade Variation 4.c4,A44,0,0,1,1,1.0
+Black,Owens Defense,B00,0,0,1,1,1.0
+Black,Owens Defense 2.Nc3,B00,0,1,0,1,0.0
+Black,Owens Defense 2.Nc3 Bb7,B00,0,0,1,1,1.0
+Black,Owens Defense 2.d4,B00,0,1,0,1,0.0
+Black,Owens Defense 2.d4 Bb7,B00,0,0,1,1,1.0
+Black,Petrovs Defense,C42,0,4,4,8,0.5
+Black,Petrovs Defense 3.d3 Nc6,C42,0,1,0,1,0.0
+Black,Petrovs Defense Classical Variation,C42,0,2,4,6,0.6666666666666666
+Black,Petrovs Defense Steinitz Attack,C43,0,1,0,1,0.0
+Black,Petrovs Defense Steinitz Attack Center Attack 5,C43,0,1,0,1,0.0
+Black,Petrovs Defense Three Knights Game,C42,0,0,4,4,1.0
+Black,Pirc Defense,B07,1,0,0,1,0.0
+Black,Pirc Defense 2.d4,B07,0,2,0,2,0.0
+Black,Pirc Defense Lions Jaw Variation 3,B07,0,0,1,1,1.0
+Black,Polish Opening,A00,0,6,7,13,0.5384615384615384
+Black,Polish Opening 1,A00,0,7,4,11,0.36363636363636365
+Black,Polish Opening Kucharkowski Meybohm Gambit 3.Bxe5,A00,1,0,0,1,0.0
+Black,Polish Opening Schiffler Sokolsky Variation,A00,0,1,0,1,0.0
+Black,Queens Gambit,D06,0,2,0,2,0.0
+Black,Queens Gambit Accepted 3.Nc3 e5,D20,0,1,1,2,0.5
+Black,Queens Gambit Accepted Classical Defense 6.O O Nc6 7.Nc3 cxd4 8.exd4,D26,0,1,0,1,0.0
+Black,Queens Gambit Accepted Old Variation 3,D20,0,1,0,1,0.0
+Black,Queens Gambit Accepted Showalter Variation 4,D24,0,1,0,1,0.0
+Black,Queens Gambit Declined,D30,0,0,3,3,1.0
+Black,Queens Gambit Declined 3.Nf3 Nf6,D30,0,0,1,1,1.0
+Black,Queens Gambit Declined 3.Nf3 Nf6 4.e3,D30,0,1,0,1,0.0
+Black,Queens Gambit Declined 3.Nf3 Nf6 4.e3 Bb4,D30,0,0,1,1,1.0
+Black,Queens Gambit Declined 3.Nf3 Nf6 4.e3 c5 5.cxd5,D30,0,1,1,2,0.5
+Black,Queens Gambit Declined 3.cxd5,D30,0,1,0,1,0.0
+Black,Queens Gambit Declined 3.e3,D30,0,1,2,3,0.6666666666666666
+Black,Queens Gambit Declined 3.e3 Nf6,D30,0,4,0,4,0.0
+Black,Queens Gambit Declined 3.g3,D30,0,0,1,1,1.0
+Black,Queens Gambit Declined Albin Countergambit,D08,0,6,3,9,0.3333333333333333
+Black,Queens Gambit Declined Albin Countergambit 3.dxe5 d4,D08,0,1,1,2,0.5
+Black,Queens Gambit Declined Albin Countergambit 3.dxe5 d4 4.Nf3 Nc6,D08,0,2,4,6,0.6666666666666666
+Black,Queens Gambit Declined Albin Countergambit 3.e3,D08,0,0,1,1,1.0
+Black,Queens Gambit Declined Albin Modern Line 5,D08,0,1,0,1,0.0
+Black,Queens Gambit Declined Austrian Variation,D06,0,1,4,5,0.8
+Black,Queens Gambit Declined Austrian Variation 3.cxd5,D06,0,2,2,4,0.5
+Black,Queens Gambit Declined Austrian Variation 3.cxd5 Qxd5,D06,0,0,1,1,1.0
+Black,Queens Gambit Declined Baltic Defense,D06,0,1,1,2,0.5
+Black,Queens Gambit Declined Charousek Variation 4.Bf4 Nf6,D31,0,1,0,1,0.0
+Black,Queens Gambit Declined Chigorin Defense,D07,0,0,2,2,1.0
+Black,Queens Gambit Declined Chigorin Defense 3.Nc3,D07,0,1,1,2,0.5
+Black,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6,D07,0,0,1,1,1.0
+Black,Queens Gambit Declined Chigorin Defense 3.e3 e5,D07,0,1,1,2,0.5
+Black,Queens Gambit Declined Chigorin Exchange Variation,D07,0,1,0,1,0.0
+Black,Queens Gambit Declined Chigorin Tartakower Gambit,D06,0,0,1,1,1.0
+Black,Queens Gambit Declined Exchange Variation,D35,0,1,0,1,0.0
+Black,Queens Gambit Declined Exchange Variation 4,D35,1,1,0,2,0.0
+Black,Queens Gambit Declined Harrwitz Attack,D35,0,4,0,4,0.0
+Black,Queens Gambit Declined Marshall Defense,D06,0,1,1,2,0.5
+Black,Queens Gambit Declined Marshall Defense 3.Nc3,D06,0,2,1,3,0.3333333333333333
+Black,Queens Gambit Declined Marshall Defense 3.cxd5,D06,0,1,0,1,0.0
+Black,Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5 4.Nf3,D06,0,0,1,1,1.0
+Black,Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5 4.e4 Nf6,D06,0,1,0,1,0.0
+Black,Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5 4.e4 Nf6 5.Nc3,D06,0,1,0,1,0.0
+Black,Queens Gambit Declined Modern Knight Defense 5.Nf3,D51,0,1,1,2,0.5
+Black,Queens Gambit Declined Modern Miles Variation 6,D53,0,0,1,1,1.0
+Black,Queens Gambit Declined Modern Variation 4,D50,0,0,1,1,1.0
+Black,Queens Gambit Declined Modern Variation 4,D53,0,3,2,5,0.4
+Black,Queens Gambit Declined Neo Orthodox Variation 7.Bh4,D55,0,0,1,1,1.0
+Black,Queens Gambit Declined Pseudo Tarrasch Defense,D30,0,2,1,3,0.3333333333333333
+Black,Queens Gambit Declined Pseudo Tarrasch Defense 4.e3 Nc6,D30,0,2,0,2,0.0
+Black,Queens Gambit Declined Queens Knight Variation 3,D31,0,2,1,3,0.3333333333333333
+Black,Queens Gambit Declined Queens Knight Variation 3,D35,0,0,2,2,1.0
+Black,Queens Gambit Declined Ragozin Defense,D38,0,0,1,1,1.0
+Black,Queens Gambit Declined Ragozin Defense 5.Bg5,D38,0,4,1,5,0.2
+Black,Queens Gambit Declined Ragozin Defense 5.a3,D38,0,0,1,1,1.0
+Black,Queens Gambit Declined Ragozin Defense 5.a3 Bxc3 6.bxc3 c5 7.e3,D38,0,0,1,1,1.0
+Black,Queens Gambit Declined Ragozin Defense 5.cxd5 exd5 6.Bg5,D38,0,0,1,1,1.0
+Black,Queens Gambit Declined Ragozin Defense 5.e3,D38,0,0,1,1,1.0
+Black,Queens Gambit Declined Semi Slav Defense Accelerated Move Order,D31,0,1,0,1,0.0
+Black,Queens Gambit Declined Semi Tarrasch Defense,D50,0,0,1,1,1.0
+Black,Queens Gambit Declined Semi Tarrasch Defense 5.cxd5,D50,0,0,1,1,1.0
+Black,Queens Gambit Declined Semi Tarrasch Main Line 5,D40,0,1,0,1,0.0
+Black,Queens Gambit Declined Semi Tarrasch Pillsbury Primitive Pillsbury Variation,D50,0,0,2,2,1.0
+Black,Queens Gambit Declined Semi Tarrasch Pillsbury Variation,D40,0,0,1,1,1.0
+Black,Queens Gambit Declined Semi Tarrasch Pillsbury Variation 5,D50,0,2,1,3,0.3333333333333333
+Black,Queens Gambit Declined Three Knights Harrwitz Attack 5,D37,0,1,2,3,0.6666666666666666
+Black,Queens Gambit Declined Three Knights Semi Tarrasch Defense 5.e3 cxd4,D40,0,0,2,2,1.0
+Black,Queens Gambit Declined Three Knights Variation,D37,0,1,0,1,0.0
+Black,Queens Gambit Declined Three Knights Variation 4,D37,1,0,0,1,0.0
+Black,Queens Gambit Declined Three Knights Vienna Variation 5.e4 Bb4 6.Bxc4 Nxe4,D44,0,1,0,1,0.0
+Black,Queens Gambit Declined Traditional Variation 4,D30,0,2,0,2,0.0
+Black,Queens Pawn Opening,A40,0,2,1,3,0.3333333333333333
+Black,Queens Pawn Opening 1,A40,0,0,1,1,1.0
+Black,Queens Pawn Opening 1,A41,0,1,0,1,0.0
+Black,Queens Pawn Opening 1,D00,1,20,15,36,0.4166666666666667
+Black,Queens Pawn Opening Accelerated London Steinitz Countergambit,D00,0,5,2,7,0.2857142857142857
+Black,Queens Pawn Opening Accelerated London Steinitz Countergambit 3.e3 Nc6 4.Nf3,D00,0,1,0,1,0.0
+Black,Queens Pawn Opening Accelerated London Steinitz Countergambit 3.e3 Nc6 4.c3,D00,0,2,0,2,0.0
+Black,Queens Pawn Opening Accelerated London System,D00,0,5,4,9,0.4444444444444444
+Black,Queens Pawn Opening Accelerated London System 2,D00,0,4,3,7,0.42857142857142855
+Black,Queens Pawn Opening Benoni Defense 5.Nc3,A43,0,0,1,1,1.0
+Black,Queens Pawn Opening Benoni Defense 5.e4,A43,0,1,1,2,0.5
+Black,Queens Pawn Opening Blackmar Blackmar Diemer Gambit 3,D00,0,2,1,3,0.3333333333333333
+Black,Queens Pawn Opening Blackmar Diemer Lemberger Simple Variation,D00,0,0,1,1,1.0
+Black,Queens Pawn Opening Blackmar Diemer Ryder Gambit,D00,0,1,0,1,0.0
+Black,Queens Pawn Opening Blackmar Diemer Ryder Tautvaisas Defense,D00,0,1,1,2,0.5
+Black,Queens Pawn Opening Chigorin Irish Gambit,D00,0,0,1,1,1.0
+Black,Queens Pawn Opening Chigorin Variation,D00,0,1,3,4,0.75
+Black,Queens Pawn Opening Chigorin Variation 2,D00,0,11,8,19,0.42105263157894735
+Black,Queens Pawn Opening Horwitz Defense,A40,1,8,4,13,0.3076923076923077
+Black,Queens Pawn Opening Horwitz Defense 2.Bf4 c5,A40,0,1,1,2,0.5
+Black,Queens Pawn Opening Horwitz Defense 2.Nf3 c5,A40,0,7,11,18,0.6111111111111112
+Black,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.c3,A40,0,3,1,4,0.25
+Black,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.c4,A40,0,0,2,2,1.0
+Black,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.c4 cxd4,A40,0,1,3,4,0.75
+Black,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.e3,A40,0,3,2,5,0.4
+Black,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.g3 cxd4 4.Nxd4,A40,0,1,0,1,0.0
+Black,Queens Pawn Opening Horwitz Defense 2.c4 c5,A40,0,6,2,8,0.25
+Black,Queens Pawn Opening Horwitz Defense 2.c4 c5 3.d5,A40,1,1,3,5,0.6
+Black,Queens Pawn Opening Horwitz Defense 2.c4 c5 3.d5 exd5,A43,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation,D02,0,15,6,21,0.2857142857142857
+Black,Queens Pawn Opening Krause Variation 3.c3 Nc6,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Krause Variation 3.c4 cxd4,D02,0,1,2,3,0.6666666666666666
+Black,Queens Pawn Opening Krause Variation 3.dxc5,D02,0,2,2,4,0.5
+Black,Queens Pawn Opening Krause Variation 3.dxc5 e6,D02,0,4,3,7,0.42857142857142855
+Black,Queens Pawn Opening Krause Variation 3.dxc5 e6 4.e4 Bxc5,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation 3.e3,D02,0,1,3,4,0.75
+Black,Queens Pawn Opening Krause Variation 3.e3 Nc6,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation 3.e3 Nc6 4.c4,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.Be2 Nc6,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.b3 Nc6 5.Bb2,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.c3 Nc6,D02,0,1,2,3,0.6666666666666666
+Black,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.dxc5,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.dxc5 e6,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Krause Variation 3.e3 e6 4.c4,D02,0,0,2,2,1.0
+Black,Queens Pawn Opening Levitsky Attack,D00,0,5,0,5,0.0
+Black,Queens Pawn Opening Levitsky Attack 2,D00,0,3,3,6,0.5
+Black,Queens Pawn Opening Mikenas Defense,A40,0,1,3,4,0.75
+Black,Queens Pawn Opening Mikenas Defense 2.Nf3,A40,1,1,0,2,0.0
+Black,Queens Pawn Opening Mikenas Defense 2.d5,A40,0,0,1,1,1.0
+Black,Queens Pawn Opening Mikenas Defense 2.d5 Ne5,A40,0,0,1,1,1.0
+Black,Queens Pawn Opening Polish Defense,A40,0,1,1,2,0.5
+Black,Queens Pawn Opening Polish Defense 2.Nf3,A40,0,1,0,1,0.0
+Black,Queens Pawn Opening Polish Defense 2.Nf3 Bb7,A40,1,0,0,1,0.0
+Black,Queens Pawn Opening Stonewall Attack,D00,0,1,0,1,0.0
+Black,Queens Pawn Opening Stonewall Attack 3,D00,0,4,1,5,0.2
+Black,Queens Pawn Opening Symmetrical Variation 3.c3 e6,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Symmetrical Variation 3.c3 e6 4.Bg5,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Symmetrical Variation 3.c3 e6 4.Bg5 Be7,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Symmetrical Variation 3.c3 g6 4.Bf4 Bg7,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Symmetrical Variation 3.c4 c5,D02,0,2,0,2,0.0
+Black,Queens Pawn Opening Torre Attack 3,D03,0,3,1,4,0.25
+Black,Queens Pawn Opening Torre Grunfeld Variation,D03,0,0,1,1,1.0
+Black,Queens Pawn Opening Zukertort Chigorin Variation,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Bg4 4.e3 e6 5.Nbd2,D02,0,0,1,1,1.0
+Black,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3,D02,0,1,0,1,0.0
+Black,Queens Pawn Opening Zukertort Variation,D02,0,2,2,4,0.5
+Black,Queens Pawn Opening Zukertort Variation 2,D02,1,2,3,6,0.5
+Black,Reti Opening 1,A06,0,1,0,1,0.0
+Black,Reti Opening Black Mustang Defense 2.g3 e5 3.d3 d5,A04,0,1,0,1,0.0
+Black,Reti Opening Kings Indian Attack 2,A05,0,2,2,4,0.5
+Black,Reti Opening Kingside Fianchetto Variation 2.c4 Bg7 3.Nc3 Nf6,A04,0,0,1,1,1.0
+Black,Reti Opening Nimzo Larsen Variation,A04,0,12,8,20,0.4
+Black,Reti Opening Old Indian Attack,A06,0,0,1,1,1.0
+Black,Reti Opening Polish Defense 2.e4,A04,0,0,1,1,1.0
+Black,Reti Opening Queens Gambit Invitation,A04,0,1,1,2,0.5
+Black,Reti Opening Queens Gambit Invitation 2.g3 c5 3.Bg2,A04,0,1,6,7,0.8571428571428571
+Black,Reti Opening Queens Gambit Invitation 2.g3 d5 3.Bg2 c5 4.O O,A04,0,0,1,1,1.0
+Black,Reti Opening Queenside Fianchetto Variation,A04,0,0,1,1,1.0
+Black,Reti Opening Queenside Fianchetto Variation 2.d4 Bb7,A04,0,1,0,1,0.0
+Black,Reti Opening Queenside Fianchetto Variation 2.e4,A04,0,2,1,3,0.3333333333333333
+Black,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7,A04,0,1,1,2,0.5
+Black,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7 3.Nc3,A04,0,0,2,2,1.0
+Black,Reti Opening Sicilian Invitation,A04,0,11,9,20,0.45
+Black,Reti Opening Sicilian Invitation 2.b3,A04,0,0,1,1,1.0
+Black,Reti Opening Sicilian Invitation 2.b3 Nc6 3.Bb2 d5,A04,0,0,1,1,1.0
+Black,Reti Opening Sicilian Invitation 2.b3 Nf6 3.Bb2 e6,A04,0,0,1,1,1.0
+Black,Reti Opening Sicilian Invitation 2.c3,A04,0,1,2,3,0.6666666666666666
+Black,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4,A04,2,21,19,42,0.4523809523809524
+Black,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4 d5,A04,0,0,1,1,1.0
+Black,Reti Opening Sicilian Invitation 2.e3,A04,0,1,4,5,0.8
+Black,Richter Veresov Attack Classical Defense 4,D00,0,0,1,1,1.0
+Black,Saragossa Opening,A00,0,4,6,10,0.6
+Black,Saragossa Opening 1,A00,0,0,1,1,1.0
+Black,Scandinavian Defense,B01,0,4,0,4,0.0
+Black,Scandinavian Defense Closed 2,B01,0,0,1,1,1.0
+Black,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Bc4 Nf6 5.Nf3,B01,0,1,0,1,0.0
+Black,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.d4,B01,0,0,1,1,1.0
+Black,Scandinavian Defense Modern Icelandic Palme Gambit 4.dxe6 Bxe6 5.d4,B01,0,1,0,1,0.0
+Black,Semi Slav Defense 5.cxd5 cxd5 6.Bg5,D43,0,2,2,4,0.5
+Black,Semi Slav Defense 5.cxd5 cxd5 6.Bg5 Be7 7.e3,D43,0,0,1,1,1.0
+Black,Semi Slav Defense Main Line,D45,0,1,0,1,0.0
+Black,Sicilian Defense,B20,4,43,56,103,0.5436893203883495
+Black,Sicilian Defense 2.Nf3,B27,0,1,4,5,0.8
+Black,Sicilian Defense 2.Nf3 d6 3.d4,B50,0,0,1,1,1.0
+Black,Sicilian Defense 2.d3 Nc6,B20,0,2,1,3,0.3333333333333333
+Black,Sicilian Defense Bowdler Attack,B20,0,2,3,5,0.6
+Black,Sicilian Defense Bowdler Attack 2,B20,8,138,124,270,0.45925925925925926
+Black,Sicilian Defense Cowboy Attack,B20,0,0,1,1,1.0
+Black,Sicilian Defense Cowboy Attack 2,B20,1,7,9,17,0.5294117647058824
+Black,Sicilian Defense Deferred Smith Morra Gambit,B40,0,5,8,13,0.6153846153846154
+Black,Sicilian Defense Deferred Smith Morra Gambit 4,B40,0,4,2,6,0.3333333333333333
+Black,Sicilian Defense Four Knights Cobra Variation 7.Nd6,B45,0,0,1,1,1.0
+Black,Sicilian Defense Four Knights Variation,B45,2,24,23,49,0.46938775510204084
+Black,Sicilian Defense Four Knights Variation 6.Be2,B45,0,0,1,1,1.0
+Black,Sicilian Defense Four Knights Variation 6.Be2 Bb4,B45,0,3,1,4,0.25
+Black,Sicilian Defense Four Knights Variation 6.Be2 Bb4 7.Nxc6,B45,0,2,0,2,0.0
+Black,Sicilian Defense Four Knights Variation 6.Be2 Bb4 7.O O,B45,0,1,0,1,0.0
+Black,Sicilian Defense Four Knights Variation 6.Be3,B45,0,3,3,6,0.5
+Black,Sicilian Defense Four Knights Variation 6.Be3 Bb4,B45,0,13,12,25,0.48
+Black,Sicilian Defense Four Knights Variation 6.Be3 Bb4 7.Bd3,B45,0,10,2,12,0.16666666666666666
+Black,Sicilian Defense Four Knights Variation 6.Be3 Bb4 7.Bd3 d5,B45,0,1,1,2,0.5
+Black,Sicilian Defense Four Knights Variation 6.Be3 Bb4 7.Bd3 d5 8.exd5,B45,0,2,4,6,0.6666666666666666
+Black,Sicilian Defense Four Knights Variation 6.Bg5,B45,0,14,11,25,0.44
+Black,Sicilian Defense Four Knights Variation 6.Ndb5 Bb4,B45,0,3,2,5,0.4
+Black,Sicilian Defense Four Knights Variation 6.Ndb5 Bb4 7.a3,B45,0,1,0,1,0.0
+Black,Sicilian Defense Four Knights Variation 6.Nxc6,B45,0,2,0,2,0.0
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6,B45,0,16,13,29,0.4482758620689655
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.Bd3,B45,0,3,3,6,0.5
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.Bd3 d5,B45,0,2,4,6,0.6666666666666666
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.Bd3 d5 8.O O,B45,0,4,2,6,0.3333333333333333
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.e5,B45,0,0,2,2,1.0
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.e5 Nd5,B45,0,1,0,1,0.0
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4,B45,0,0,1,1,1.0
+Black,Sicilian Defense Four Knights Variation 6.Nxc6 bxc6 7.e5 Nd5 8.Nxd5,B45,0,0,1,1,1.0
+Black,Sicilian Defense Four Knights Variation 6.a3 d5,B45,0,1,2,3,0.6666666666666666
+Black,Sicilian Defense French Deferred Wing Gambit,B40,0,0,1,1,1.0
+Black,Sicilian Defense French Deferred Wing Gambit 3,B40,0,2,1,3,0.3333333333333333
+Black,Sicilian Defense French Variation,B40,6,67,66,139,0.4748201438848921
+Black,Sicilian Defense French Variation 3.Be2,B40,0,0,1,1,1.0
+Black,Sicilian Defense French Variation 3.Be2 Nc6,B40,1,5,3,9,0.3333333333333333
+Black,Sicilian Defense French Variation 3.Be2 Nc6 4.O O,B40,0,3,4,7,0.5714285714285714
+Black,Sicilian Defense French Variation 3.Be2 Nc6 4.O O Nf6,B40,0,4,3,7,0.42857142857142855
+Black,Sicilian Defense French Variation 3.Nc3,B40,1,0,0,1,0.0
+Black,Sicilian Defense French Variation 3.Nc3 Nc6,B40,3,22,23,48,0.4791666666666667
+Black,Sicilian Defense French Variation 3.Nc3 Nc6 4.Bb5 Nge7,B40,0,0,1,1,1.0
+Black,Sicilian Defense French Variation 3.Nc3 Nc6 4.d4,B40,3,9,13,25,0.52
+Black,Sicilian Defense French Variation 3.Nc3 Nc6 4.g3 Nf6,B40,0,1,0,1,0.0
+Black,Sicilian Defense French Variation 3.Nc3 d5,B40,1,0,1,2,0.5
+Black,Sicilian Defense French Variation 3.Nc3 d5 4.exd5 exd5,B40,0,4,2,6,0.3333333333333333
+Black,Sicilian Defense French Variation 3.d3,B40,0,0,3,3,1.0
+Black,Sicilian Defense French Variation 3.d3 Nc6,B40,3,17,37,57,0.6491228070175439
+Black,Sicilian Defense French Variation 3.d3 Nc6 4.c3 d5,B40,0,1,3,4,0.75
+Black,Sicilian Defense French Variation 3.d3 d5,B40,1,1,1,3,0.3333333333333333
+Black,Sicilian Defense French Variation 3.d4,B40,3,44,43,90,0.4777777777777778
+Black,Sicilian Defense French Variation 3.d4 cxd4,B40,5,20,29,54,0.5370370370370371
+Black,Sicilian Defense French Variation 3.d4 cxd4 4.Nxd4,B40,0,3,0,3,0.0
+Black,Sicilian Defense French Variation 3.g3 Nc6,B40,0,1,0,1,0.0
+Black,Sicilian Defense French Variation 3.g3 Nc6 4.Bg2 Nf6,B40,0,0,1,1,1.0
+Black,Sicilian Defense French Variation 3.g3 Nc6 4.Bg2 Nf6 5.Nc3,B40,1,1,0,2,0.0
+Black,Sicilian Defense French Variation 3.g3 Nc6 4.Bg2 d5,B40,1,0,0,1,0.0
+Black,Sicilian Defense French Variation 3.g3 d5 4.exd5 exd5 5.d4,B40,0,0,1,1,1.0
+Black,Sicilian Defense Kan Maroczy Bind Formation,B41,0,0,1,1,1.0
+Black,Sicilian Defense Kan Maroczy Bind Formation 5,B41,1,0,0,1,0.0
+Black,Sicilian Defense Keres Variation 2,B20,0,2,2,4,0.5
+Black,Sicilian Defense Kramnik Variation,B40,0,9,13,22,0.5909090909090909
+Black,Sicilian Defense Kramnik Variation 3,B40,0,18,14,32,0.4375
+Black,Sicilian Defense Lasker Dunne Attack 2,B20,0,6,1,7,0.14285714285714285
+Black,Sicilian Defense Marshall Counterattack,B40,0,1,2,3,0.6666666666666666
+Black,Sicilian Defense McDonnell Attack,B21,0,9,10,19,0.5263157894736842
+Black,Sicilian Defense McDonnell Attack 2,B21,2,80,80,162,0.49382716049382713
+Black,Sicilian Defense Mengarini Variation 2,B20,1,5,6,12,0.5
+Black,Sicilian Defense Nimzowitsch Advance Variation,B29,1,0,1,2,0.5
+Black,Sicilian Defense Nimzowitsch Closed 3,B29,0,8,7,15,0.4666666666666667
+Black,Sicilian Defense Nimzowitsch Variation,B29,0,1,0,1,0.0
+Black,Sicilian Defense Nimzowitsch Variation 3.d3,B29,1,1,0,2,0.0
+Black,Sicilian Defense Normal Line,B40,1,38,69,108,0.6388888888888888
+Black,Sicilian Defense Normal Line 5.Bd3,B40,0,13,3,16,0.1875
+Black,Sicilian Defense Normal Line 5.Bd3 Nc6,B40,2,11,6,19,0.3157894736842105
+Black,Sicilian Defense Normal Line 5.Bd3 Nc6 6.Be3,B40,0,1,0,1,0.0
+Black,Sicilian Defense Normal Line 5.Bd3 Nc6 6.Be3 d5,B40,0,2,1,3,0.3333333333333333
+Black,Sicilian Defense Normal Line 5.Bd3 Nc6 6.Be3 d5 7.exd5,B40,0,5,0,5,0.0
+Black,Sicilian Defense Normal Line 5.Bd3 Nc6 6.Nxc6 bxc6,B40,0,5,1,6,0.16666666666666666
+Black,Sicilian Defense Normal Line 5.Bd3 Nc6 6.Nxc6 bxc6 7.O O,B40,0,0,1,1,1.0
+Black,Sicilian Defense Normal Line 5.Nc3,B40,0,3,0,3,0.0
+Black,Sicilian Defense Nyezhmetdinov Rossolimo Attack,B30,0,2,1,3,0.3333333333333333
+Black,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3,B30,5,43,40,88,0.45454545454545453
+Black,Sicilian Defense Old Sicilian Variation,B30,0,0,1,1,1.0
+Black,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,B30,2,60,63,125,0.504
+Black,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,B30,3,33,59,95,0.6210526315789474
+Black,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3 a6 5.a4,B30,0,0,1,1,1.0
+Black,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,B30,1,33,36,70,0.5142857142857142
+Black,Sicilian Defense Open,B30,0,5,1,6,0.16666666666666666
+Black,Sicilian Defense Open 3,B30,0,0,1,1,1.0
+Black,Sicilian Defense Open Lowenthal Variation 5.Nb3,B32,0,0,1,1,1.0
+Black,Sicilian Defense Paulsen Basman Defense,B40,0,1,0,1,0.0
+Black,Sicilian Defense Pin Variation,B40,6,105,144,255,0.5647058823529412
+Black,Sicilian Defense Pin Variation 6.Bd3,B40,0,6,4,10,0.4
+Black,Sicilian Defense Pin Variation 6.Bd3 Nc6,B40,6,57,63,126,0.5
+Black,Sicilian Defense Pin Variation Koch Variation,B40,0,12,16,28,0.5714285714285714
+Black,Sicilian Defense Slow Variation,B20,0,0,4,4,1.0
+Black,Sicilian Defense Smith Morra Accepted Paulsen Formation 7.O O,B21,0,0,1,1,1.0
+Black,Sicilian Defense Smith Morra Accepted Pin Defense,B21,1,3,1,5,0.2
+Black,Sicilian Defense Smith Morra Accepted Scheveningen Formation 7.O O Nf6,B21,0,1,1,2,0.5
+Black,Sicilian Defense Smith Morra Accepted Scheveningen Formation 7.O O Nf6 8.Qe2,B21,0,0,1,1,1.0
+Black,Sicilian Defense Smith Morra Accepted Scheveningen Formation 7.O O Nf6 8.Qe2 Be7 9.Rd1,B21,0,1,1,2,0.5
+Black,Sicilian Defense Smith Morra Gambit,B21,0,2,2,4,0.5
+Black,Sicilian Defense Smith Morra Gambit 2,B21,4,19,39,62,0.6290322580645161
+Black,Sicilian Defense Smith Morra Gambit Accepted,B21,0,1,1,2,0.5
+Black,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6,B21,0,0,1,1,1.0
+Black,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Bc4,B21,0,0,1,1,1.0
+Black,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3 e6,B21,0,2,7,9,0.7777777777777778
+Black,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4,B21,1,15,14,30,0.4666666666666667
+Black,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 e6 5.Bc4,B21,0,1,2,3,0.6666666666666666
+Black,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 e6 5.Nf3,B21,0,0,1,1,1.0
+Black,Sicilian Defense Staunton Cochrane Variation,B20,0,10,6,16,0.375
+Black,Sicilian Defense Staunton Cochrane Variation 2,B20,0,10,12,22,0.5454545454545454
+Black,Sicilian Defense Taimanov Variation,B44,0,1,2,3,0.6666666666666666
+Black,Sicilian Defense Taimanov Variation 5.Be2 Nf6,B44,0,1,1,2,0.5
+Black,Sicilian Defense Taimanov Variation 5.Nc3,B45,1,7,2,10,0.2
+Black,Sicilian Defense Taimanov Variation 5.Nc3 Bb4,B45,0,11,11,22,0.5
+Black,Sicilian Defense Taimanov Variation 5.Nxc6 bxc6,B44,0,3,3,6,0.5
+Black,Sicilian Defense Taimanov Variation 5.Nxc6 bxc6 6.c4 Nf6,B44,0,1,0,1,0.0
+Black,Sicilian Defense Taimanov Variation 5.Nxc6 bxc6 6.c4 Nf6 7.Bd3,B44,0,2,2,4,0.5
+Black,Sicilian Defense Taimanov Variation 5.c4,B44,0,1,2,3,0.6666666666666666
+Black,Sicilian Defense Westerinen Attack 3,B40,0,9,6,15,0.4
+Black,Sicilian Defense Wing Gambit,B20,0,16,5,21,0.23809523809523808
+Black,Sicilian Defense Wing Gambit 2,B20,0,1,1,2,0.5
+Black,Sicilian Defense Wing Marshall Variation,B20,0,1,0,1,0.0
+Black,Sicilian Defense Wing Marshall Variation 3,B20,0,7,7,14,0.5
+Black,Slav Defense,D10,0,0,1,1,1.0
+Black,Slav Defense Exchange Symmetrical Line 7.e3 a6,D14,0,1,0,1,0.0
+Black,Slav Defense Exchange Symmetrical Line 7.e3 e6 8.Bb5,D14,0,2,0,2,0.0
+Black,Slav Defense Exchange Variation,D10,0,10,1,11,0.09090909090909091
+Black,Slav Defense Exchange Variation 3,D10,0,12,9,21,0.42857142857142855
+Black,Slav Defense Modern Exchange Variation,D13,0,5,2,7,0.2857142857142857
+Black,Slav Defense Modern Exchange Variation 4,D13,0,5,2,7,0.2857142857142857
+Black,Slav Defense Modern Quiet Pin Defense 5.cxd5 cxd5,D11,0,1,0,1,0.0
+Black,Slav Defense Modern Three Knights Variation,D15,0,1,0,1,0.0
+Black,Slav Defense Modern Three Knights Variation 4,D15,0,1,0,1,0.0
+Black,Tarrasch Defense,D32,0,1,1,2,0.5
+Black,Tarrasch Defense 4.Nf3 cxd4,D32,0,1,0,1,0.0
+Black,Tarrasch Defense 4.cxd5 exd5,D32,0,0,1,1,1.0
+Black,Tarrasch Defense 4.e3 Nc6,D32,0,0,1,1,1.0
+Black,Tarrasch Defense 4.e3 Nf6,D32,1,1,1,3,0.3333333333333333
+Black,Tarrasch Defense Schara Gambit,D32,0,0,6,6,1.0
+Black,Tarrasch Defense Symmetrical Variation,D32,0,2,0,2,0.0
+Black,Tarrasch Defense Symmetrical Variation 6.a3 cxd4 7.exd4,D40,0,1,0,1,0.0
+Black,Tarrasch Defense Symmetrical Variation 6.a3 cxd4 7.exd4 Be7 8.c5,D40,0,1,1,2,0.5
+Black,Tarrasch Defense Symmetrical Variation 6.cxd5,D32,0,2,0,2,0.0
+Black,Tarrasch Defense Two Knights Rubinstein Prague Carlsbad Variation 9,D34,0,0,1,1,1.0
+Black,Tarrasch Defense Two Knights Rubinstein Prague Main Line,D34,0,0,1,1,1.0
+Black,Tarrasch Defense Two Knights Rubinstein Prague Main Line 8.O O,D34,1,0,0,1,0.0
+Black,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2,D33,0,1,0,1,0.0
+Black,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2 cxd4 8.Nxd4,D33,0,2,0,2,0.0
+Black,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2 cxd4 8.Nxd4 Bc5,D33,0,3,3,6,0.5
+Black,Tarrasch Defense Two Knights Variation,D32,0,4,5,9,0.5555555555555556
+Black,Three Knights Opening 3,C46,0,0,2,2,1.0
+Black,Torre Attack,A46,0,1,0,1,0.0
+Black,Torre Attack 3,A46,0,1,0,1,0.0
+Black,Trompowsky Attack,A45,0,0,1,1,1.0
+Black,Trompowsky Attack 2,A45,0,1,0,1,0.0
+Black,Trompowsky Attack Classical Big Center Variation 3,A45,0,1,0,1,0.0
+Black,Undefined,A00,2,11,14,27,0.5185185185185185
+Black,Van Geet Opening,A00,0,1,0,1,0.0
+Black,Van Geet Opening 1,A00,0,9,4,13,0.3076923076923077
+Black,Van Geet Opening Sicilian Two Knights Variation 4,A00,0,1,0,1,0.0
+Black,Van t Kruijs Opening,A00,0,4,2,6,0.3333333333333333
+Black,Van t Kruijs Opening 1,A00,0,55,57,112,0.5089285714285714
+Black,Vienna Game Falkbeer Variation,C26,0,1,1,2,0.5
+Black,Vienna Game Falkbeer Vienna Gambit,C28,0,1,0,1,0.0
+Black,Vienna Game Max Lange Vienna Gambit,C25,0,1,0,1,0.0
+White,Alapin Sicilian Defense,B22,0,1,1,2,0.5
+White,Alapin Sicilian Defense 2,B22,0,5,0,5,0.0
+White,Alapin Sicilian Defense Barmen Defense 4.d4 cxd4 5.cxd4 Nc6 6.Nf3,B22,0,0,1,1,1.0
+White,Alekhines Defense,B02,1,3,1,5,0.2
+White,Alekhines Defense 2.e5,B02,0,0,1,1,1.0
+White,Alekhines Defense Maroczy Variation,B02,0,0,1,1,1.0
+White,Alekhines Defense Normal Variation 3.Bc4 Nb6 4.Bb3,B02,0,1,0,1,0.0
+White,Alekhines Defense Normal Variation 3.Nf3,B02,0,1,0,1,0.0
+White,Alekhines Defense Normal Variation 3.d4,B03,0,1,0,1,0.0
+White,Benko Gambit,A57,0,1,0,1,0.0
+White,Benoni Defense,A56,1,2,5,8,0.625
+White,Benoni Defense Modern Kings Pawn Line,A65,1,0,1,2,0.5
+White,Benoni Defense Modern Variation,A60,0,1,0,1,0.0
+White,Birds Opening,A02,1,8,5,14,0.35714285714285715
+White,Birds Opening 1,A02,0,5,5,10,0.5
+White,Birds Opening Dutch Variation,A03,0,3,0,3,0.0
+White,Birds Opening Dutch Variation 2.Nf3,A03,0,2,1,3,0.3333333333333333
+White,Birds Opening Dutch Variation 2.Nf3 Nf6 3.g3,A03,0,1,0,1,0.0
+White,Birds Opening Dutch Variation 2.Nf3 c5 3.e3,A03,0,2,0,2,0.0
+White,Birds Opening Dutch Variation 2.Nf3 c5 3.e3 Nc6,A03,0,1,0,1,0.0
+White,Birds Opening Dutch Variation 2.Nf3 c5 3.g3,A03,0,1,0,1,0.0
+White,Birds Opening Dutch Variation 2.Nf3 c5 3.g3 Nc6 4.Bg2,A03,0,1,1,2,0.5
+White,Birds Opening Dutch Variation 2.e3,A03,0,1,2,3,0.6666666666666666
+White,Birds Opening Froms Gambit,A02,1,3,1,5,0.2
+White,Bishops Opening,C23,0,1,1,2,0.5
+White,Bishops Opening Berlin Defense,C24,0,0,1,1,1.0
+White,Bishops Opening Boi Variation 3.Nf3,C20,0,1,1,2,0.5
+White,Budapest Gambit,A51,2,1,5,8,0.625
+White,Budapest Gambit Adler Variation,A52,0,1,0,1,0.0
+White,Caro Kann Defense,B10,0,2,0,2,0.0
+White,Caro Kann Defense 2.Nf3 d5,B10,0,2,1,3,0.3333333333333333
+White,Caro Kann Defense 2.Nf3 g6,B10,0,1,0,1,0.0
+White,Caro Kann Defense Classical Variation,B18,0,1,0,1,0.0
+White,Caro Kann Defense Exchange Variation 3,B13,0,1,5,6,0.8333333333333334
+White,Caro Kann Defense Fantasy Variation 3,B12,0,1,0,1,0.0
+White,Caro Kann Defense Panov Attack,B14,0,1,2,3,0.6666666666666666
+White,Caro Kann Defense Panov Attack 4,B13,0,1,1,2,0.5
+White,Catalan Opening Closed,E01,1,8,6,15,0.4
+White,Catalan Opening Closed,E04,1,9,5,15,0.3333333333333333
+White,Catalan Opening Closed,E06,0,8,15,23,0.6521739130434783
+White,Catalan Opening Closed,E07,0,4,3,7,0.42857142857142855
+White,Catalan Opening Closed 4,E01,0,4,3,7,0.42857142857142855
+White,Catalan Opening Closed 4,E04,0,1,4,5,0.8
+White,Catalan Opening Closed 4,E06,1,1,2,4,0.5
+White,Catalan Opening Open,E01,0,1,0,1,0.0
+White,Catalan Opening Open 5.Nf3 Be7 6.O O,E01,0,1,4,5,0.8
+White,Catalan Opening Open 5.Nf3 cxd4,E01,0,0,1,1,1.0
+White,Catalan Opening Open Defense Classical Line,E05,0,1,0,1,0.0
+White,Catalan Opening Open Defense Classical Line 6.O O O O 7.Nc3,E05,0,1,4,5,0.8
+White,Catalan Opening Open Defense Classical Line 6.O O O O 7.Nc3 Nc6,E05,0,1,1,2,0.5
+White,Catalan Opening Open Defense Classical Line 6.O O O O 7.Ne5,E05,0,2,1,3,0.3333333333333333
+White,Catalan Opening Open Defense Classical Line 6.O O O O 7.Ne5 c5 8.dxc5,E05,0,0,1,1,1.0
+White,Center Game,C21,0,1,2,3,0.6666666666666666
+White,Center Game Accepted,C21,0,2,0,2,0.0
+White,Center Game Accepted Normal Variation,C22,0,2,3,5,0.6
+White,Center Game Accepted Paulsen Attack,C22,0,2,0,2,0.0
+White,Center Game Accepted Paulsen Berger Variation 5.Nc3 Bb4 6.Bd2 O O 7.O O O,C22,0,0,1,1,1.0
+White,Colle System 3,D04,0,1,0,1,0.0
+White,Colle System Anti Colle Variation 4.c4 e6 5.Nc3,D04,0,0,2,2,1.0
+White,Danish Gambit,C21,0,9,8,17,0.47058823529411764
+White,Dutch Defense 2.c4,A84,0,0,1,1,1.0
+White,Dutch Defense Classical Rubinstein Variation 3,A40,0,0,1,1,1.0
+White,Dutch Defense Classical Rubinstein Variation 3,A84,0,2,1,3,0.3333333333333333
+White,Dutch Defense Classical Stonewall Variation Modern Variation,A90,0,4,6,10,0.6
+White,Dutch Defense Classical Variation,A90,0,2,1,3,0.3333333333333333
+White,Dutch Defense Classical Variation 3.Nf3 Nf6,A84,0,1,0,1,0.0
+White,Dutch Defense Classical Variation 3.Nf3 Nf6 4.e3,A84,0,1,0,1,0.0
+White,Dutch Defense Fianchetto Botvinnik Bronstein Variation,A91,0,2,2,4,0.5
+White,Dutch Defense Fianchetto Botvinnik Bronstein Variation 5,A91,0,0,2,2,1.0
+White,Dutch Defense Fianchetto Ilyin Zhenevsky Huisl Variation 8.Nxe4 fxe4,A96,0,0,1,1,1.0
+White,Dutch Defense Fianchetto Ilyin Zhenevsky Variation 6,A81,0,1,1,2,0.5
+White,Dutch Defense Leningrad Variation,A87,0,3,1,4,0.25
+White,Dutch Defense Queens Knight Variation,A85,0,2,0,2,0.0
+White,Dutch Defense Queens Knight Variation 3,A85,0,2,0,2,0.0
+White,English Defense,A40,0,0,1,1,1.0
+White,English Defense 2.Nf3 Bb7 3.g3,A40,0,2,0,2,0.0
+White,English Defense 2.c4 Bb7 3.Nc3,A40,0,4,4,8,0.5
+White,English Opening,A10,0,1,1,2,0.5
+White,English Opening 1,A10,0,8,10,18,0.5555555555555556
+White,English Opening Agincourt Catalan Defense with 3 c5 4.Bg2,A13,0,1,0,1,0.0
+White,English Opening Agincourt Catalan Defense with 3 c5 4.Bg2 Nc6,A13,0,0,1,1,1.0
+White,English Opening Agincourt Catalan Defense with 3 c5 4.Bg2 Nc6 5.O O,A13,0,5,4,9,0.4444444444444444
+White,English Opening Agincourt Defense,A13,0,11,17,28,0.6071428571428571
+White,English Opening Agincourt Defense 2.Nf3,A13,0,4,6,10,0.6
+White,English Opening Agincourt Defense 2.Nf3 Nf6 3.g3,A13,0,1,0,1,0.0
+White,English Opening Agincourt Defense 2.Nf3 d5,A13,0,2,0,2,0.0
+White,English Opening Agincourt Defense 2.Nf3 d5 3.cxd5,A13,0,0,1,1,1.0
+White,English Opening Agincourt Defense 2.Nf3 d5 3.cxd5 exd5,A13,0,1,2,3,0.6666666666666666
+White,English Opening Agincourt Defense 2.Nf3 d5 3.g3,A13,0,0,1,1,1.0
+White,English Opening Agincourt Defense 2.Nf3 d5 3.g3 dxc4 4.Bg2,A13,0,0,1,1,1.0
+White,English Opening Agincourt Kurajica Defense 4.Bg2,A13,0,1,1,2,0.5
+White,English Opening Agincourt Romanishin Variation 4.Nc3,A15,0,0,1,1,1.0
+White,English Opening Anglo Dutch Defense,A10,1,7,4,12,0.3333333333333333
+White,English Opening Anglo Dutch Defense 2.Nf3 Nf6,A10,0,1,1,2,0.5
+White,English Opening Anglo Dutch Defense 2.Nf3 Nf6 3.Nc3 g6,A10,0,1,0,1,0.0
+White,English Opening Anglo Dutch Defense 2.Nf3 Nf6 3.g3 d6,A10,0,1,0,1,0.0
+White,English Opening Anglo Indian Anglo Grunfeld Defense,A16,0,1,0,1,0.0
+White,English Opening Anglo Indian Anglo Grunfeld Defense 3.cxd5 Nxd5 4.Nf3 Nxc3 5.bxc3,A16,0,1,0,1,0.0
+White,English Opening Anglo Indian Anglo Grunfeld Defense 3.cxd5 Nxd5 4.d4,A16,0,1,0,1,0.0
+White,English Opening Anglo Indian Defense,A15,0,2,2,4,0.5
+White,English Opening Anglo Indian Defense 2.g3 g6 3.Bg2 Bg7 4.Nf3,A15,0,0,1,1,1.0
+White,English Opening Anglo Indian Kings Indian Defense,A15,0,3,6,9,0.6666666666666666
+White,English Opening Anglo Indian Kings Indian Defense 3.g3 Bg7 4.Bg2 O O 5.O O,A15,0,0,1,1,1.0
+White,English Opening Anglo Indian Kings Indian Defense 3.g3 Bg7 4.Bg2 O O 5.d4,A15,0,1,0,1,0.0
+White,English Opening Anglo Indian Kings Knight Queens Indian Formation,A15,0,3,7,10,0.7
+White,English Opening Anglo Indian Kings Knight Queens Indian Formation 3.d4 Bb7 4.Nc3,A15,0,0,2,2,1.0
+White,English Opening Anglo Indian Kings Knight Variation 2,A15,0,1,0,1,0.0
+White,English Opening Anglo Indian Old Indian Formation 3.Nc3,A15,0,2,0,2,0.0
+White,English Opening Anglo Indian Old Indian Formation 3.Nc3 g6 4.g3 Bg7 5.Bg2,A15,0,0,1,1,1.0
+White,English Opening Anglo Indian Old Indian Formation 3.g3 e5,A15,0,0,1,1,1.0
+White,English Opening Anglo Indian Old Indian Formation 3.g3 e5 4.Bg2,A15,0,0,2,2,1.0
+White,English Opening Anglo Indian Queens Indian Formation,A17,0,2,0,2,0.0
+White,English Opening Anglo Indian Queens Knight Variation,A16,0,1,0,1,0.0
+White,English Opening Anglo Indian Queens Knight Variation,A17,0,0,1,1,1.0
+White,English Opening Anglo Indian Queens Knight Variation 2,A16,0,1,1,2,0.5
+White,English Opening Anglo Indian Queens Knight Variation 2,A17,0,4,3,7,0.42857142857142855
+White,English Opening Anglo Indian Scandinavian Defense 3.cxd5,A15,0,2,0,2,0.0
+White,English Opening Anglo Scandinavian Defense,A10,0,0,1,1,1.0
+White,English Opening Carls Bremen Fianchetto Line,A24,1,12,6,19,0.3157894736842105
+White,English Opening Carls Bremen Keres Variation 4.Nf3 d6 5.Bg2,A23,0,1,0,1,0.0
+White,English Opening Caro Kann Defensive System,A11,2,13,14,29,0.4827586206896552
+White,English Opening Caro Kann Defensive System 2.Nc3,A11,0,0,1,1,1.0
+White,English Opening Caro Kann Defensive System 2.Nf3,A11,0,0,2,2,1.0
+White,English Opening Caro Kann Defensive System 2.Nf3 d5,A11,1,3,2,6,0.3333333333333333
+White,English Opening Caro Kann Defensive System 2.Nf3 d5 3.cxd5 cxd5,A11,0,2,0,2,0.0
+White,English Opening Caro Kann Defensive System 2.Nf3 d5 3.g3 Bg4 4.Bg2,A11,0,0,1,1,1.0
+White,English Opening Caro Kann Defensive System 2.Nf3 d5 3.g3 dxc4 4.Bg2,A11,0,1,0,1,0.0
+White,English Opening Caro Kann Defensive System 2.g3 Nf6 3.Nf3,A11,0,0,1,1,1.0
+White,English Opening Fianchetto Ultra Symmetrical Duchamp Variation 7,A38,0,0,1,1,1.0
+White,English Opening Fianchetto Ultra Symmetrical Line,A37,0,0,1,1,1.0
+White,English Opening Fianchetto Ultra Symmetrical Line 5.Nf3 Nf6 6.O O,A38,0,1,0,1,0.0
+White,English Opening Fianchetto Ultra Symmetrical Line 5.Nf3 Nf6 6.O O d6 7.d3,A38,0,1,0,1,0.0
+White,English Opening Fianchetto Ultra Symmetrical Line 5.Nf3 d6 6.O O Bd7,A37,0,2,1,3,0.3333333333333333
+White,English Opening Fianchetto Ultra Symmetrical Line 5.Nf3 e6 6.O O Nge7 7.d4,A37,0,3,3,6,0.5
+White,English Opening Fianchetto Ultra Symmetrical Line 5.Nf3 e6 6.d4 cxd4 7.Nb5,A37,0,0,1,1,1.0
+White,English Opening Fianchetto Ultra Symmetrical Mecking Variation,A39,0,7,7,14,0.5
+White,English Opening Fianchetto Ultra Symmetrical Mecking Variation 7,A39,0,1,0,1,0.0
+White,English Opening Four Knights Flexible Line 4,A28,0,1,1,2,0.5
+White,English Opening Four Knights Kingside Fianchetto Line,A28,0,1,1,2,0.5
+White,English Opening Four Knights Kingside Fianchetto Line,A29,0,1,1,2,0.5
+White,English Opening Four Knights Kingside Fianchetto Line 4,A28,0,1,1,2,0.5
+White,English Opening Four Knights Kingside Fianchetto Line 4,A29,0,2,0,2,0.0
+White,English Opening Great Snake Variation,A10,0,2,0,2,0.0
+White,English Opening Great Snake Variation 2.Nc3 Bg7 3.Nf3,A10,0,1,2,3,0.6666666666666666
+White,English Opening Kings English Nimzowitsch Flohr Variation,A20,0,0,1,1,1.0
+White,English Opening Kings English Nimzowitsch Flohr Variation 3.Nd4,A20,0,2,0,2,0.0
+White,English Opening Kings English Nimzowitsch Flohr Variation 3.Nd4 Nc6,A20,0,0,1,1,1.0
+White,English Opening Kings English Nimzowitsch Variation 2,A20,0,2,1,3,0.3333333333333333
+White,English Opening Kings English Variation,A20,0,8,9,17,0.5294117647058824
+White,English Opening Kings English Variation 2.g3 c6 3.Nf3 e4 4.Nd4,A20,0,0,1,1,1.0
+White,English Opening Neo Catalan Bogoljubov Defense 5.O O,A13,0,2,0,2,0.0
+White,English Opening Neo Catalan Bogoljubov Defense 5.O O O O,A13,0,3,0,3,0.0
+White,English Opening Neo Catalan Defense,A13,0,24,23,47,0.48936170212765956
+White,English Opening Neo Catalan Defense 4.Bg2,A13,1,0,2,3,0.6666666666666666
+White,English Opening Neo Catalan Defense 4.Bg2 Nbd7 5.O O,A13,0,1,1,2,0.5
+White,English Opening Neo Catalan Defense 4.Bg2 c5 5.O O,A13,0,4,3,7,0.42857142857142855
+White,English Opening Neo Catalan Defense 4.Bg2 c5 5.cxd5 exd5,A13,0,0,1,1,1.0
+White,English Opening Neo Catalan Defense 4.Bg2 d4 5.O O c5 6.d3,A13,0,0,1,1,1.0
+White,English Opening Neo Catalan Defense Accepted,A13,0,2,1,3,0.3333333333333333
+White,English Opening Neo Catalan Defense Accepted 5.O O,A13,0,3,1,4,0.25
+White,English Opening Neo Catalan Defense Accepted 5.O O c6,A13,0,0,1,1,1.0
+White,English Opening Neo Catalan Defense Accepted 5.O O c6 6.a4,A13,0,1,0,1,0.0
+White,English Opening Neo Catalan Defense Accepted 5.Qa4 Bd7 6.Qxc4,A13,0,0,1,1,1.0
+White,English Opening Neo Catalan Defense Declined,A14,0,3,0,3,0.0
+White,English Opening Neo Catalan Defense Declined 5.O O,A14,0,1,0,1,0.0
+White,English Opening Neo Catalan Defense Declined 5.O O O O 6.cxd5,A13,0,1,1,2,0.5
+White,English Opening Neo Catalan Defense Declined 5.O O O O 6.cxd5 exd5,A13,0,0,2,2,1.0
+White,English Opening Neo Catalan Defense Declined 5.O O O O 6.cxd5 exd5 7.d4,A13,1,2,1,4,0.25
+White,English Opening Neo Catalan Defense Declined 5.O O c5,A14,0,0,1,1,1.0
+White,English Opening Neo Catalan Defense Declined 5.O O c5 6.cxd5 Nxd5,A14,0,0,1,1,1.0
+White,English Opening Neo Catalan Defense Declined 5.O O dxc4,A14,0,1,2,3,0.6666666666666666
+White,English Opening Neo Catalan Semi Slav Defense,A13,0,2,0,2,0.0
+White,English Opening Neo Catalan Semi Slav Defense 5.O O,A13,0,2,0,2,0.0
+White,English Opening Neo Catalan Semi Slav Defense 5.O O Be7,A13,0,2,1,3,0.3333333333333333
+White,English Opening Neo Catalan Semi Slav Defense 5.O O Nbd7,A13,0,1,0,1,0.0
+White,English Opening Nimzo English Opening 4.g3 b6 5.Bg2 Bb7 6.O O,A17,0,2,0,2,0.0
+White,English Opening Reversed Sicilian Taimanov Full Symmetry Line,A26,0,0,1,1,1.0
+White,English Opening Reversed Sicilian Taimanov Full Symmetry Line 6.Nf3 Nf6 7.O O,A26,0,0,1,1,1.0
+White,English Opening Reversed Sicilian Taimanov Full Symmetry Line 6.Nf3 Nge7 7.O O O O,A26,0,1,0,1,0.0
+White,English Opening Reversed Sicilian Three Knights System,A27,0,1,0,1,0.0
+White,English Opening Reversed Sicilian Three Knights System 3,A27,0,1,0,1,0.0
+White,English Opening Reversed Sicilian Variation,A21,0,0,1,1,1.0
+White,English Opening Reversed Sicilian Variation 2,A21,0,0,1,1,1.0
+White,English Opening Symmetrical Anti Benoni Variation,A30,0,1,1,2,0.5
+White,English Opening Symmetrical Anti Benoni Variation,A31,0,8,8,16,0.5
+White,English Opening Symmetrical Anti Benoni Variation,A32,0,1,1,2,0.5
+White,English Opening Symmetrical Anti Benoni Variation,A33,0,2,0,2,0.0
+White,English Opening Symmetrical Anti Benoni Variation 3,A31,2,2,2,6,0.3333333333333333
+White,English Opening Symmetrical Fianchetto Variation,A34,0,0,1,1,1.0
+White,English Opening Symmetrical Four Knights Variation,A35,0,2,2,4,0.5
+White,English Opening Symmetrical Four Knights Variation 4.g3 b6 5.Bg2 Bb7 6.O O,A35,0,0,1,1,1.0
+White,English Opening Symmetrical Four Knights Variation 4.g3 d6 5.Bg2,A35,0,1,0,1,0.0
+White,English Opening Symmetrical Four Knights Variation 4.g3 e5 5.Bg2 d6,A35,0,1,0,1,0.0
+White,English Opening Symmetrical Three Knights Keres Parma System 5.Bg2 Be7,A34,0,2,0,2,0.0
+White,English Opening Symmetrical Three Knights System,A34,0,2,1,3,0.3333333333333333
+White,English Opening Symmetrical Three Knights System 3,A34,0,2,3,5,0.6
+White,English Opening Symmetrical Two Knights Variation,A35,0,0,1,1,1.0
+White,English Opening Symmetrical Two Knights Variation 3.Nf3 e5 4.g3 d6 5.Bg2,A35,0,2,0,2,0.0
+White,English Opening Symmetrical Two Knights Variation 3.Nf3 g6 4.e3 Bg7 5.d4,A35,0,1,0,1,0.0
+White,English Opening Symmetrical Variation,A30,1,12,21,34,0.6176470588235294
+White,English Opening Symmetrical Variation,A34,0,1,3,4,0.75
+White,English Opening Symmetrical Variation 2.Nf3,A30,0,1,6,7,0.8571428571428571
+White,English Opening Symmetrical Variation 2.Nf3 Nc6 3.d4 cxd4,A30,0,1,0,1,0.0
+White,English Opening Symmetrical Variation 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4,A30,0,0,2,2,1.0
+White,English Opening Symmetrical Variation 2.Nf3 Nc6 3.g3,A30,0,0,1,1,1.0
+White,English Opening Symmetrical Variation 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O O,A30,0,1,0,1,0.0
+White,Englund Gambit,A40,3,38,42,83,0.5060240963855421
+White,Englund Gambit 2.dxe5,A40,0,2,0,2,0.0
+White,Englund Gambit 2.dxe5 Nc6 3.Nf3,A40,0,1,2,3,0.6666666666666666
+White,Englund Gambit 2.dxe5 Nc6 3.Nf3 Qe7,A40,1,3,3,7,0.42857142857142855
+White,Four Knights Game 4.g3 Bc5 5.Bg2 d6 6.O O,C47,0,1,0,1,0.0
+White,French Defense Advance Paulsen Attack 5,C02,0,0,1,1,1.0
+White,French Defense Exchange Monte Carlo Variation 4,C01,0,0,1,1,1.0
+White,French Defense Exchange Variation,C01,0,0,1,1,1.0
+White,French Defense Exchange Variation 3,C01,0,0,1,1,1.0
+White,French Defense Franco Sicilian Defense,C00,0,0,2,2,1.0
+White,French Defense Horwitz Attack,C00,0,0,1,1,1.0
+White,French Defense Knight Variation,C00,1,2,3,6,0.5
+White,French Defense Knight Variation 2,C00,0,3,3,6,0.5
+White,French Defense Normal Variation,C00,0,0,6,6,1.0
+White,French Defense Normal Variation 2,C00,1,1,1,3,0.3333333333333333
+White,French Defense Schlechter Variation 3,C00,0,0,2,2,1.0
+White,French Defense St George Defense 3.Nf3,C00,0,0,1,1,1.0
+White,French Defense St George Three Pawn Attack,C00,0,0,1,1,1.0
+White,French Defense Steinitz Attack,C00,0,1,1,2,0.5
+White,French Defense Tarrasch Open Euwe Keres Line,C07,0,1,0,1,0.0
+White,Giuoco Piano Game,C50,0,1,1,2,0.5
+White,Giuoco Piano Game 4.O O,C50,0,0,1,1,1.0
+White,Giuoco Piano Game 4.O O Nf6 5.d3 O O,C50,1,0,0,1,0.0
+White,Giuoco Piano Game Center Attack 5,C53,0,0,1,1,1.0
+White,Giuoco Piano Game Four Knights Game 5.O O,C50,1,1,0,2,0.0
+White,Giuoco Piano Game Main Line 4,C53,0,0,1,1,1.0
+White,Grob Opening,A00,0,0,1,1,1.0
+White,Grob Opening 1,A00,0,1,1,2,0.5
+White,Grunfeld Defense,D80,0,1,0,1,0.0
+White,Grunfeld Defense Burille Variation,D94,0,0,1,1,1.0
+White,Grunfeld Defense Burille Variation 5,D94,0,1,0,1,0.0
+White,Grunfeld Defense Exchange Variation 5.Nf3 Bg7 6.e4,D85,0,0,1,1,1.0
+White,Grunfeld Defense Hungarian Attack,D92,0,2,0,2,0.0
+White,Grunfeld Defense Hungarian Attack 5,D93,0,1,1,2,0.5
+White,Grunfeld Defense Petrosian System,D91,0,3,1,4,0.25
+White,Grunfeld Defense Petrosian System 5,D91,1,5,3,9,0.3333333333333333
+White,Grunfeld Defense Stockholm Variation 4,D80,0,1,0,1,0.0
+White,Grunfeld Defense Three Knights Variation 4,D90,0,1,0,1,0.0
+White,Indian Game 2.c3 d5 3.Bg5,A45,0,0,1,1,1.0
+White,Indian Game 2.c3 d5 3.Nf3,A45,0,1,0,1,0.0
+White,Indian Game 2.c4,A50,0,1,0,1,0.0
+White,Indian Game Accelerated Variation 3.Nc3 Bb7,A50,0,1,1,2,0.5
+White,Indian Game Accelerated Variation 3.Nc3 Bb7 4.d5,A50,0,1,0,1,0.0
+White,Indian Game Black Knights Tango,A50,0,2,1,3,0.3333333333333333
+White,Indian Game Black Knights Tango 3.Nf3,A50,1,2,1,4,0.25
+White,Indian Game Black Knights Tango 3.Nf3 e6 4.Nc3 Bb4 5.Bg5,A50,0,0,1,1,1.0
+White,Indian Game Black Knights Tango 3.Nf3 e6 4.a3 d5 5.Nc3,A50,0,0,1,1,1.0
+White,Indian Game Black Knights Tango 3.Nf3 e6 4.g3 d5,A50,0,1,0,1,0.0
+White,Indian Game Black Knights Tango 3.Nf3 e6 4.g3 d5 5.Bg2,A50,0,1,6,7,0.8571428571428571
+White,Indian Game Czech Indian Variation,A46,0,0,1,1,1.0
+White,Indian Game East Indian Anti Nimzo Indian Variation,E10,0,1,2,3,0.6666666666666666
+White,Indian Game East Indian Anti Nimzo Indian Variation 3,E10,0,3,1,4,0.25
+White,Indian Game East Indian Benoni Defense,E00,0,2,1,3,0.3333333333333333
+White,Indian Game East Indian Defense 3.Nc3,E00,0,1,0,1,0.0
+White,Indian Game East Indian Defense 3.Nc3 b6,E00,0,1,0,1,0.0
+White,Indian Game East Indian Przepiorka Variation,A49,0,7,5,12,0.4166666666666667
+White,Indian Game East Indian Przepiorka Variation 3,A49,0,2,2,4,0.5
+White,Indian Game Knights Variation,A46,3,57,60,120,0.5
+White,Indian Game Knights Variation,A47,0,0,2,2,1.0
+White,Indian Game Knights Variation 2,A46,0,5,4,9,0.4444444444444444
+White,Indian Game Knights Variation 2,A47,0,1,0,1,0.0
+White,Indian Game Knights Variation East Indian Defense 3.Nc3 Bg7,A48,0,1,0,1,0.0
+White,Indian Game London System,A46,0,1,0,1,0.0
+White,Indian Game London System 3,A46,0,0,1,1,1.0
+White,Indian Game Marienbad System 5.O O cxd4,A47,0,1,0,1,0.0
+White,Indian Game Polish Variation,A46,0,1,0,1,0.0
+White,Indian Game Spielmann Indian Variation,A46,0,6,1,7,0.14285714285714285
+White,Indian Game Spielmann Indian Variation 3.d5 d6 4.c4,A46,0,1,0,1,0.0
+White,Indian Game Spielmann Indian Variation 3.g3 cxd4 4.Nxd4 e5,A46,0,1,0,1,0.0
+White,Indian Game Tartakower Attack 2,A45,0,2,0,2,0.0
+White,Indian Game Tartakower Defense,A46,0,3,0,3,0.0
+White,Indian Game Tartakower Defense 3.Bg5,A46,0,1,3,4,0.75
+White,Indian Game Tartakower Defense 3.g3 Bg4 4.Bg2,A46,0,2,0,2,0.0
+White,Indian Game Tartakower Defense 3.g3 Nbd7 4.Bg2 e5,A46,0,1,0,1,0.0
+White,Indian Game Yusupov Rubinstein System,A46,0,0,1,1,1.0
+White,Indian Game Yusupov Rubinstein System 3,A46,0,1,0,1,0.0
+White,Italian Game,C50,1,2,10,13,0.7692307692307693
+White,Italian Game 3,C50,0,5,4,9,0.4444444444444444
+White,Italian Game Hungarian Defense 4.d4 exd4 5.c3,C50,0,1,0,1,0.0
+White,Italian Game Knight Attack,C57,0,0,1,1,1.0
+White,Italian Game Knight Attack Normal Variation 5.exd5,C57,0,2,0,2,0.0
+White,Italian Game Knight Attack Polerio Bishop Check Line 6,C58,0,1,0,1,0.0
+White,Italian Game Knight Attack Polerio Defense,C57,0,1,0,1,0.0
+White,Italian Game Traxler Counterattack,C57,1,0,0,1,0.0
+White,Italian Game Two Knights Open,C55,0,1,0,1,0.0
+White,Kings Fianchetto Opening,A00,0,1,3,4,0.75
+White,Kings Fianchetto Opening 1,A00,0,4,2,6,0.3333333333333333
+White,Kings Fianchetto Opening Indian Defense 2.Bg2,A00,0,0,1,1,1.0
+White,Kings Fianchetto Opening Indian Defense 2.Bg2 d5 3.Nf3,A00,0,3,7,10,0.7
+White,Kings Fianchetto Opening Indian Defense 2.Bg2 e6,A00,0,1,0,1,0.0
+White,Kings Fianchetto Opening Reversed Alekhine Variation,A00,0,15,12,27,0.4444444444444444
+White,Kings Fianchetto Opening Reversed Alekhine Variation 2,A00,1,29,24,54,0.4444444444444444
+White,Kings Fianchetto Opening Sicilian Invitation,A00,0,1,0,1,0.0
+White,Kings Indian Attack,A07,5,82,89,176,0.5056818181818182
+White,Kings Indian Attack 2,A07,4,139,212,355,0.5971830985915493
+White,Kings Indian Attack Double Fianchetto Variation 3.Bg2,A07,0,0,1,1,1.0
+White,Kings Indian Attack Double Fianchetto Variation 3.Bg2 Bg7 4.O O,A07,0,0,2,2,1.0
+White,Kings Indian Attack Double Fianchetto Variation 3.Bg2 Bg7 4.O O e5,A07,0,0,1,1,1.0
+White,Kings Indian Attack Double Fianchetto Variation 3.Bg2 Bg7 4.O O e5 5.c4,A07,0,1,0,1,0.0
+White,Kings Indian Attack Double Fianchetto Variation 3.Bg2 Bg7 4.c4 dxc4,A07,0,1,0,1,0.0
+White,Kings Indian Attack Double Fianchetto Variation 3.c4 c6 4.Bg2 Bg7 5.O O,A07,0,1,0,1,0.0
+White,Kings Indian Attack Double Fianchetto Variation 3.c4 dxc4,A07,0,1,0,1,0.0
+White,Kings Indian Attack Double Fianchetto Variation 3.d4 Bg7 4.Bg2 Nd7,A07,0,1,0,1,0.0
+White,Kings Indian Attack Double Fianchetto Variation 3.d4 Bg7 4.Bg2 c6,A07,0,0,1,1,1.0
+White,Kings Indian Attack Double Fianchetto Variation 3.d4 Bg7 4.Bg2 c6 5.O O,A07,0,5,7,12,0.5833333333333334
+White,Kings Indian Attack French Reversed Grunfeld Variation,A08,0,20,7,27,0.25925925925925924
+White,Kings Indian Attack French Reversed Grunfeld Variation 5,A08,1,3,6,10,0.6
+White,Kings Indian Attack French Variation,A08,0,11,12,23,0.5217391304347826
+White,Kings Indian Attack French Variation 4.O O,A08,2,13,19,34,0.5588235294117647
+White,Kings Indian Attack French Variation 4.O O e5,A08,1,33,27,61,0.4426229508196721
+White,Kings Indian Attack French Variation 4.O O e5 5.d3 f6,A08,0,3,1,4,0.25
+White,Kings Indian Attack French Variation 4.c4,A08,0,2,0,2,0.0
+White,Kings Indian Attack French Variation 4.d4,A08,0,2,8,10,0.8
+White,Kings Indian Attack French Variation 4.d4 Nf6 5.O O cxd4 6.Nxd4,A08,0,3,6,9,0.6666666666666666
+White,Kings Indian Attack French Variation 4.d4 cxd4 5.Nxd4,A08,0,2,6,8,0.75
+White,Kings Indian Attack French Variation 4.d4 e6,A08,0,1,2,3,0.6666666666666666
+White,Kings Indian Attack Keres Variation,A07,0,10,5,15,0.3333333333333333
+White,Kings Indian Attack Keres Variation 3.Bg2,A07,0,20,18,38,0.47368421052631576
+White,Kings Indian Attack Keres Variation 3.Bg2 Nd7 4.O O,A07,0,1,0,1,0.0
+White,Kings Indian Attack Keres Variation 3.Bg2 Nd7 4.d4,A07,0,1,0,1,0.0
+White,Kings Indian Attack Keres Variation 3.Bg2 e6,A07,0,2,1,3,0.3333333333333333
+White,Kings Indian Attack Keres Variation 3.Bg2 e6 4.O O,A07,0,1,2,3,0.6666666666666666
+White,Kings Indian Attack Sicilian Variation,A07,0,1,1,2,0.5
+White,Kings Indian Attack Sicilian Variation,A08,2,20,29,51,0.5686274509803921
+White,Kings Indian Attack Sicilian Variation 3.Bg2,A08,0,8,5,13,0.38461538461538464
+White,Kings Indian Attack Sicilian Variation 3.Bg2 Nf6 4.O O,A08,0,0,3,3,1.0
+White,Kings Indian Attack Sicilian Variation 3.Bg2 Nf6 4.O O Nc6,A08,0,1,0,1,0.0
+White,Kings Indian Attack Sicilian Variation 3.Bg2 Nf6 4.O O Nc6 5.d4,A08,0,10,11,21,0.5238095238095238
+White,Kings Indian Attack Sicilian Variation 3.Bg2 Nf6 4.O O g6,A08,0,0,1,1,1.0
+White,Kings Indian Attack Sicilian Variation 3.Bg2 Nf6 4.O O g6 5.d4,A08,0,2,0,2,0.0
+White,Kings Indian Attack Yugoslav Variation,A07,2,19,29,50,0.58
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Bf5 4.O O,A07,0,1,1,2,0.5
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Bf5 4.O O e6 5.c4,A07,1,0,3,4,0.75
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Bf5 4.d3 e6 5.O O,A07,1,0,2,3,0.6666666666666666
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Bg4 4.O O,A07,0,7,5,12,0.4166666666666667
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Bg4 4.O O e6,A07,0,9,11,20,0.55
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Nbd7 4.O O e5,A07,0,1,2,3,0.6666666666666666
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Nbd7 4.d4,A07,0,1,0,1,0.0
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Nc6,A07,1,30,43,74,0.581081081081081
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Nc6 4.d4 Bf5,A07,0,0,1,1,1.0
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 Nc6 4.d4 Bf5 5.O O,A07,0,5,2,7,0.2857142857142857
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 c6,A07,0,1,0,1,0.0
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 c6 4.O O,A07,0,5,3,8,0.375
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 c6 4.O O Bg4 5.Ne5,A07,0,1,4,5,0.8
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 c6 4.O O Bg4 5.c4,A07,1,3,1,5,0.2
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 c6 4.O O Nbd7 5.d4,A07,0,3,2,5,0.4
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 e6,A07,0,0,1,1,1.0
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 e6 4.O O,A07,2,19,19,40,0.475
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 e6 4.O O Be7,A07,0,1,0,1,0.0
+White,Kings Indian Attack Yugoslav Variation 3.Bg2 g6 4.c4 dxc4,A07,0,1,0,1,0.0
+White,Kings Indian Attack Yugoslav Variation 3.c4,A07,1,1,2,4,0.5
+White,Kings Indian Defense,E60,0,9,8,17,0.47058823529411764
+White,Kings Indian Defense,E64,0,5,1,6,0.16666666666666666
+White,Kings Indian Defense 3.Nf3,E60,0,0,1,1,1.0
+White,Kings Indian Defense 3.Nf3 Bg7,E60,1,2,0,3,0.0
+White,Kings Indian Defense Accelerated Averbakh Variation 5,E70,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Debrecen Classical Main Line 8.dxe5 dxe5,E67,0,1,2,3,0.6666666666666666
+White,Kings Indian Defense Fianchetto Debrecen Classical Main Line 8.dxe5 dxe5 9.Qc2 c6 10.Rd1,E67,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Debrecen Defense,E67,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Debrecen Defense 7.O O c6 8.e4 e5,E67,0,4,0,4,0.0
+White,Kings Indian Defense Fianchetto Karlsbad Panno Simagin Variation,E62,1,4,8,13,0.6153846153846154
+White,Kings Indian Defense Fianchetto Karlsbad Panno Simagin Variation 8.h3 Bxf3 9.Bxf3,E62,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Karlsbad Panno Uhlmann Szabo System 8.dxe5 Nxe5,E62,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Karlsbad Panno Uhlmann Szabo System 8.dxe5 Nxe5 9.Nxe5 dxe5,E62,0,1,0,1,0.0
+White,Kings Indian Defense Fianchetto Karlsbad Panno Uhlmann Szabo System 8.dxe5 dxe5 9.Bg5,E62,0,1,0,1,0.0
+White,Kings Indian Defense Fianchetto Karlsbad Panno Variation,E63,0,0,3,3,1.0
+White,Kings Indian Defense Fianchetto Karlsbad Panno Variation 7,E62,0,1,1,2,0.5
+White,Kings Indian Defense Fianchetto Karlsbad Variation,E62,0,1,1,2,0.5
+White,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Kavalek Defense,E62,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Larsen Defense,E62,0,1,0,1,0.0
+White,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Larsen Defense 8.Re1,E62,0,1,0,1,0.0
+White,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Variation 7.O O Bg4,E62,1,2,5,8,0.625
+White,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Variation 7.O O a6,E62,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Yugoslav Panno Fianchetto Variation Hungarian Variation,E64,0,2,1,3,0.3333333333333333
+White,Kings Indian Defense Fianchetto Yugoslav Panno System 6,E60,0,18,14,32,0.4375
+White,Kings Indian Defense Fianchetto Yugoslav Panno System 6,E64,2,10,9,21,0.42857142857142855
+White,Kings Indian Defense Fianchetto Yugoslav Rare Advance Line,E66,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Yugoslav System 5.Nf3 O O 6.Nc3,E64,0,2,1,3,0.3333333333333333
+White,Kings Indian Defense Fianchetto Yugoslav Variation Rare Line,E64,0,0,1,1,1.0
+White,Kings Indian Defense Fianchetto Yugoslav Variation Rare Line 7.O O,E65,0,1,2,3,0.6666666666666666
+White,Kings Indian Defense Fianchetto Yugoslav Variation Rare Line 7.O O cxd4 8.Nxd4,E65,0,1,4,5,0.8
+White,Kings Indian Defense Fianchetto Yugoslav Variation Rare Line 7.dxc5 dxc5,E64,0,1,0,1,0.0
+White,Kings Indian Defense Normal Fianchetto Karlsbad Panno Variation 8.Bg5 h6,E63,0,0,1,1,1.0
+White,Kings Indian Defense Normal Smyslov Variation,E61,1,2,1,4,0.25
+White,Kings Indian Defense Normal Smyslov Variation 5,E61,0,6,3,9,0.3333333333333333
+White,Kings Indian Defense Normal Variation,E61,0,8,4,12,0.3333333333333333
+White,Kings Indian Defense Normal Variation 4.Bf4,E61,0,0,1,1,1.0
+White,Kings Indian Defense Normal Variation 4.Bf4 O O,E61,0,0,1,1,1.0
+White,Kings Indian Defense Normal Variation 4.Nf3,E61,0,0,2,2,1.0
+White,Kings Indian Defense Normal Variation 4.Nf3 O O,E61,0,0,1,1,1.0
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bf4 d6,E61,0,1,0,1,0.0
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bf4 d6 6.e3,E61,0,2,1,3,0.3333333333333333
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bg5 c5,E61,0,0,1,1,1.0
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bg5 d6,E61,2,15,10,27,0.37037037037037035
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bg5 d6 6.e3,E61,0,7,6,13,0.46153846153846156
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bg5 h6,E61,0,1,2,3,0.6666666666666666
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bg5 h6 6.Bh4,E61,0,1,0,1,0.0
+White,Kings Indian Defense Normal Variation 4.Nf3 O O 5.g3 d5 6.cxd5,E61,0,0,1,1,1.0
+White,Kings Indian Defense Normal Variation 4.Nf3 d6 5.Bf4,E61,0,2,0,2,0.0
+White,Kings Indian Defense Normal Variation 4.Nf3 d6 5.e3 O O,E61,0,1,0,1,0.0
+White,Kings Indian Defense Normal Variation 4.e4 d6 5.Nf3,E90,0,1,0,1,0.0
+White,Kings Indian Defense Normal Variation 4.e4 d6 5.Nf3 O O,E90,0,0,1,1,1.0
+White,Kings Indian Defense Pterodactyl Defense 5.Bg2 cxd4 6.Nxd4 Nc6,E64,0,1,0,1,0.0
+White,Kings Indian Defense Smyslov Variation,E61,0,0,1,1,1.0
+White,Kings Indian Defense Smyslov Variation 4,E61,1,5,11,17,0.6470588235294118
+White,Kings Indian Defense Zinnowitz Variation,E90,0,1,0,1,0.0
+White,Kings Pawn Opening,B00,0,2,3,5,0.6
+White,Kings Pawn Opening 1,C20,0,0,1,1,1.0
+White,Kings Pawn Opening Kings Knight Elephant Gambit 3.Nxe5 Bd6 4.d4 dxe4,C40,0,0,1,1,1.0
+White,Kings Pawn Opening Kings Knight Variation,C40,0,1,3,4,0.75
+White,Kings Pawn Opening Latvian Gambit,C40,0,1,0,1,0.0
+White,Kings Pawn Opening Leonardis Variation,C20,0,0,1,1,1.0
+White,Kings Pawn Opening Leonardis Variation 2,C20,1,0,0,1,0.0
+White,Kings Pawn Opening St George Defense 2.d4 b5 3.Nf3 Bb7,B00,0,1,0,1,0.0
+White,London System,D02,0,3,1,4,0.25
+White,London System 3,D02,0,2,2,4,0.5
+White,Mieses Opening,A00,0,1,4,5,0.8
+White,Mieses Opening 1,A00,0,3,4,7,0.5714285714285714
+White,Mieses Opening Reversed Rat Variation,A00,0,2,1,3,0.3333333333333333
+White,Modern Defense,A41,0,1,1,2,0.5
+White,Modern Defense 3.Nc3 Bg7,A41,0,2,5,7,0.7142857142857143
+White,Modern Defense 3.Nc3 Bg7 4.Nf3,A41,0,2,3,5,0.6
+White,Modern Defense 3.Nc3 Bg7 4.Nf3 Bg4,A41,0,0,1,1,1.0
+White,Modern Defense 3.Nc3 Bg7 4.Nf3 Nc6,A41,0,2,1,3,0.3333333333333333
+White,Modern Defense 3.Nc3 Bg7 4.Nf3 c5,A41,0,1,0,1,0.0
+White,Modern Defense 3.Nc3 Bg7 4.Nf3 c6,A41,0,2,2,4,0.5
+White,Modern Defense Averbakh Variation,A41,0,1,0,1,0.0
+White,Modern Defense Averbakh Variation 4,A42,0,0,1,1,1.0
+White,Modern Defense Bishop Attack,B06,0,1,0,1,0.0
+White,Modern Defense Geller System 4,A04,0,1,1,2,0.5
+White,Modern Defense Pterodactyl Defense,A40,0,1,1,2,0.5
+White,Modern Defense Pterodactyl Defense 4.d5 d6,A40,0,1,0,1,0.0
+White,Modern Defense Pterodactyl Defense with 2 Nf3 and 3 g3 4.c4 cxd4 5.Nxd4,A40,0,1,0,1,0.0
+White,Modern Defense Standard Line 3,B06,0,1,0,1,0.0
+White,Modern Defense with 1 d4,A40,0,0,2,2,1.0
+White,Modern Defense with 1 d4 2.Nc3 Bg7,A40,0,1,0,1,0.0
+White,Modern Defense with 1 d4 2.Nf3 Bg7 3.Bf4,A40,0,0,1,1,1.0
+White,Modern Defense with 1 d4 2.Nf3 Bg7 3.Bf4 d6 4.e3,A40,0,0,1,1,1.0
+White,Modern Defense with 1 d4 2.Nf3 Bg7 3.c3 d6 4.Bf4,A40,0,1,0,1,0.0
+White,Modern Defense with 1 d4 2.c4,A40,0,1,0,1,0.0
+White,Modern Defense with 1 d4 2.c4 Bg7 3.Nc3,A40,0,7,9,16,0.5625
+White,Modern Defense with 1 d4 2.c4 Bg7 3.Nf3,A40,0,7,4,11,0.36363636363636365
+White,Modern Defense with 1 d4 2.c4 Bg7 3.Nf3 d6 4.g3,A40,0,1,0,1,0.0
+White,Modern Defense with 1 e4 2.Bc4,B06,0,0,1,1,1.0
+White,Modern Defense with 1 e4 2.d3 Bg7,B06,0,1,0,1,0.0
+White,Modern Defense with 1 e4 2.d4 Bg7 3.Nf3,B06,0,3,1,4,0.25
+White,Neo Grunfeld Defense Classical Modern Defense 7.Nc3,D78,0,2,4,6,0.6666666666666666
+White,Neo Grunfeld Defense Classical Modern Defense 7.Nc3 c6,D78,0,3,1,4,0.25
+White,Neo Grunfeld Defense Classical Original Defense 7.Nc3,D78,3,11,9,23,0.391304347826087
+White,Neo Grunfeld Defense Classical Original Defense 7.Nc3 dxc4 8.Ne5,D78,0,2,4,6,0.6666666666666666
+White,Neo Grunfeld Defense Classical Original Ultra Delayed Exchange Variation 8.Nc3 Nc6,D79,1,9,2,12,0.16666666666666666
+White,Neo Grunfeld Defense Classical Original Ultra Delayed Exchange Variation 8.Nc3 Nc6 9.Bf4,D79,0,2,1,3,0.3333333333333333
+White,Neo Grunfeld Defense Classical Original Ultra Delayed Exchange Variation 8.Nc3 e6,D79,0,9,7,16,0.4375
+White,Neo Grunfeld Defense Classical Original Ultra Delayed Exchange Variation 8.Nc3 e6 9.Bf4 Nc6,D79,0,1,0,1,0.0
+White,Neo Grunfeld Defense Classical Original Ultra Delayed Exchange Variation 8.Ne5 Nc6 9.Nc3 Bf5,E60,0,0,1,1,1.0
+White,Neo Grunfeld Defense Classical Polgar Variation,D78,0,1,0,1,0.0
+White,Neo Grunfeld Defense Exchange Variation 6.Nf3 O O 7.O O c6,D72,0,3,3,6,0.5
+White,Neo Grunfeld Defense with 3 d5,D73,0,2,4,6,0.6666666666666666
+White,Nimzo Indian Defense 4.Bd2 d5,E20,0,1,0,1,0.0
+White,Nimzo Indian Defense Hubner Variation 5.Nf3,E41,0,1,0,1,0.0
+White,Nimzo Indian Defense Leningrad Variation,E30,1,2,0,3,0.0
+White,Nimzo Indian Defense Leningrad Variation 4,E30,0,1,2,3,0.6666666666666666
+White,Nimzo Indian Defense Normal Line 4,E40,0,0,1,1,1.0
+White,Nimzo Indian Defense Samisch Variation 5,E24,0,1,0,1,0.0
+White,Nimzo Indian Defense Schlechter Defense 7.O O,E52,0,0,1,1,1.0
+White,Nimzo Indian Defense Three Knights Duchamp Variation 5.Bg5 Bb7,E21,1,0,0,1,0.0
+White,Nimzo Indian Defense Three Knights Duchamp Variation 5.Bg5 Bb7 6.e3,E21,0,1,0,1,0.0
+White,Nimzo Indian Defense Three Knights Duchamp Variation 5.Bg5 Bb7 6.e3 h6 7.Bh4,E21,0,0,1,1,1.0
+White,Nimzo Indian Defense Three Knights Duchamp Variation 5.g3 Bb7 6.Bg2,E21,0,0,1,1,1.0
+White,Nimzo Indian Defense Three Knights Variation 4,E21,1,5,4,10,0.4
+White,Nimzowitsch Defense 2.d4 e6 3.Nf3,B00,0,1,0,1,0.0
+White,Nimzowitsch Defense Declined,B00,0,1,0,1,0.0
+White,Nimzowitsch Defense Declined 2,B00,0,1,1,2,0.5
+White,Nimzowitsch Defense Declined Williams Variation,B00,0,1,0,1,0.0
+White,Nimzowitsch Defense Declined Williams Variation 3.d4 Nf6 4.Nc3 Bg4,B00,0,0,1,1,1.0
+White,Nimzowitsch Defense Kennedy Linksspringer Variation,B00,0,1,0,1,0.0
+White,Nimzowitsch Defense Kennedy Variation,B00,0,1,0,1,0.0
+White,Nimzowitsch Larsen Attack Indian Variation,A01,0,0,1,1,1.0
+White,Nimzowitsch Larsen Attack Modern Variation 2.Bb2,A01,0,1,0,1,0.0
+White,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6,A01,0,0,1,1,1.0
+White,Old Benoni Defense,A43,1,25,12,38,0.3157894736842105
+White,Old Benoni Defense 2.d5 d6 3.c4 g6,A43,0,1,0,1,0.0
+White,Old Benoni Defense Franco Benoni Defense 3,A43,0,1,0,1,0.0
+White,Old Indian Defense,A53,0,0,1,1,1.0
+White,Old Indian Defense 3.Nc3,A53,0,2,0,2,0.0
+White,Old Indian Defense 3.Nf3,A53,0,1,3,4,0.75
+White,Old Indian Defense 3.Nf3 Nbd7 4.g3 e5,A53,0,0,1,1,1.0
+White,Old Indian Defense Czech Variation 4.Nf3,A53,0,1,1,2,0.5
+White,Old Indian Defense Czech Variation 4.Nf3 Bf5,A53,1,0,0,1,0.0
+White,Old Indian Defense Duz Khotimirsky Variation,A53,0,1,0,1,0.0
+White,Old Indian Defense Duz Khotimirsky Variation 4.Nf3 g6 5.Bg5 Bg7 6.e3,A53,0,2,0,2,0.0
+White,Old Indian Defense Janowski Variation 4.Nf3,A53,0,1,0,1,0.0
+White,Old Indian Defense Ukrainian Two Knights Variation,A54,0,2,2,4,0.5
+White,Old Indian Defense Ukrainian Two Knights Variation 4,A54,0,0,4,4,1.0
+White,Owens Defense,B00,0,1,0,1,0.0
+White,Owens Defense 2.d4,B00,0,0,2,2,1.0
+White,Owens Defense 2.d4 Bb7 3.Nc3,B00,0,0,1,1,1.0
+White,Owens Defense 2.d4 Bb7 3.Nc3 e6 4.Nf3,B00,0,1,0,1,0.0
+White,Petrovs Defense Steinitz Attack,C43,0,1,1,2,0.5
+White,Petrovs Defense Steinitz Attack 3,C43,0,1,2,3,0.6666666666666666
+White,Petrovs Defense Steinitz Attack Symmetrical Variation,C43,0,1,0,1,0.0
+White,Philidor Defense,C41,0,1,0,1,0.0
+White,Philidor Defense 3.Bc4,C41,0,3,2,5,0.4
+White,Philidor Defense 3.Bc4 Be7 4.d4 exd4,C41,0,0,2,2,1.0
+White,Philidor Defense 3.Bc4 Nf6,C41,0,0,1,1,1.0
+White,Philidor Defense 3.d4,C41,0,0,3,3,1.0
+White,Philidor Defense Exchange Variation,C41,0,4,3,7,0.42857142857142855
+White,Philidor Defense Exchange Variation 4.Nxd4 Nf6,C41,0,1,0,1,0.0
+White,Pirc Defense,B07,0,0,2,2,1.0
+White,Pirc Defense 2.d4,B07,0,0,1,1,1.0
+White,Pirc Defense 2.d4 Nf6,B07,0,1,0,1,0.0
+White,Pirc Defense 2.d4 c6 3.Nf3,B07,0,1,0,1,0.0
+White,Pirc Defense Classical Variation,B08,0,1,0,1,0.0
+White,Pirc Defense Classical Variation 4,B08,1,0,1,2,0.5
+White,Pirc Defense Harmonist Variation 2,B07,0,0,1,1,1.0
+White,Pirc Defense Main Line Byrne Variation 4,B07,0,1,1,2,0.5
+White,Pirc Defense Maroczy Defense 3.dxe5 dxe5 4.Qxd8 Kxd8,B07,0,1,0,1,0.0
+White,Pirc Defense Modern Defense Geller System,B07,0,0,1,1,1.0
+White,Pirc Defense Modern Defense Geller System 2,B07,0,3,1,4,0.25
+White,Polish Opening Symmetrical Variation,A00,0,0,1,1,1.0
+White,Ponziani Opening 3,C44,0,0,1,1,1.0
+White,Ponziani Opening Jaenisch Counterattack 4.d4 exd4,C44,0,1,1,2,0.5
+White,Queens Gambit,D06,1,4,5,10,0.5
+White,Queens Gambit Accepted,D20,0,0,2,2,1.0
+White,Queens Gambit Accepted 3.Nc3,D20,0,6,5,11,0.45454545454545453
+White,Queens Gambit Accepted 3.Nc3 Nf6,D20,0,6,3,9,0.3333333333333333
+White,Queens Gambit Accepted 3.Nc3 Nf6 4.e3,D20,0,0,3,3,1.0
+White,Queens Gambit Accepted 3.Nc3 a6,D20,0,2,1,3,0.3333333333333333
+White,Queens Gambit Accepted 3.Nc3 a6 4.a4,D20,0,0,1,1,1.0
+White,Queens Gambit Accepted 3.Nc3 e5,D20,0,5,4,9,0.4444444444444444
+White,Queens Gambit Accepted 3.Nf3,D21,0,0,1,1,1.0
+White,Queens Gambit Accepted 3.Nf3 Nf6,D23,0,0,1,1,1.0
+White,Queens Gambit Accepted 3.Nf3 Nf6 4.e3 e6 5.Bxc4,D26,0,1,0,1,0.0
+White,Queens Gambit Accepted 3.Nf3 Nf6 4.g3,D23,1,0,1,2,0.5
+White,Queens Gambit Accepted Alekhine Variation 4.e3 e6 5.Bxc4,D22,0,0,1,1,1.0
+White,Queens Gambit Accepted Central Variation,D20,0,2,1,3,0.3333333333333333
+White,Queens Gambit Accepted Central Variation Alekhine System,D20,0,0,1,1,1.0
+White,Queens Gambit Accepted Central Variation Alekhine System 4.Nc3,D20,0,4,6,10,0.6
+White,Queens Gambit Accepted Central Variation Alekhine System 4.Nc3 e5,D20,0,1,1,2,0.5
+White,Queens Gambit Accepted Central Variation Greco Variation 4.a4 c6 5.axb5 cxb5,D20,0,0,1,1,1.0
+White,Queens Gambit Accepted Central Variation McDonnell Defense 4.Nf3 exd4,D20,0,1,0,1,0.0
+White,Queens Gambit Accepted Central Variation Modern Defense 4.Nf3,D20,0,0,1,1,1.0
+White,Queens Gambit Accepted Central Variation Modern Defense 4.Nf3 Bg4,D20,0,1,0,1,0.0
+White,Queens Gambit Accepted Central Variation Modern Defense 4.Nf3 Bg4 5.d5,D20,0,1,0,1,0.0
+White,Queens Gambit Accepted Central Variation Modern Defense 4.Nf3 Bg4 5.d5 Ne5,D20,0,0,2,2,1.0
+White,Queens Gambit Accepted Central Variation Rubinstein Defense,D20,0,1,0,1,0.0
+White,Queens Gambit Accepted Central Variation Rubinstein Defense 4.Nf3,D20,0,1,0,1,0.0
+White,Queens Gambit Accepted Central Variation Rubinstein Defense 4.d5 e6 5.Nc3 exd5,D20,0,1,0,1,0.0
+White,Queens Gambit Accepted Classical Defense 6.Nc3,D26,0,1,0,1,0.0
+White,Queens Gambit Accepted Classical Main Line 7.Nc3,D27,0,1,0,1,0.0
+White,Queens Gambit Accepted Gunsberg Defense with 3 c5,D21,0,0,1,1,1.0
+White,Queens Gambit Accepted Gunsberg Defense with 3 c5 4.d5 e6 5.e4,D21,0,0,2,2,1.0
+White,Queens Gambit Accepted Gunsberg Prianishenmo Gambit,D21,0,0,1,1,1.0
+White,Queens Gambit Accepted Old Variation,D20,0,2,5,7,0.7142857142857143
+White,Queens Gambit Accepted Old Variation 3,D20,0,3,3,6,0.5
+White,Queens Gambit Accepted Rosenthal Variation,D21,0,2,3,5,0.6
+White,Queens Gambit Accepted Rosenthal Variation 4.e4,D21,0,1,0,1,0.0
+White,Queens Gambit Accepted Smyslov Variation 5.Bxc4 Bg7 6.O O O O 7.Nc3,D25,0,0,1,1,1.0
+White,Queens Gambit Declined,D30,0,1,3,4,0.75
+White,Queens Gambit Declined 3.Nf3,D30,0,2,0,2,0.0
+White,Queens Gambit Declined 3.Nf3 Nf6,D30,0,1,0,1,0.0
+White,Queens Gambit Declined 3.Nf3 Nf6 4.cxd5 exd5,D30,0,1,1,2,0.5
+White,Queens Gambit Declined 3.Nf3 a6,D30,0,0,1,1,1.0
+White,Queens Gambit Declined 3.Nf3 a6 4.g3 dxc4 5.Bg2,D30,0,1,0,1,0.0
+White,Queens Gambit Declined 3.Nf3 f5,D30,0,2,1,3,0.3333333333333333
+White,Queens Gambit Declined 3.Nf3 f5 4.Nc3,D30,0,1,1,2,0.5
+White,Queens Gambit Declined 3.g3,D30,0,1,0,1,0.0
+White,Queens Gambit Declined Albin Countergambit,D08,0,4,4,8,0.5
+White,Queens Gambit Declined Albin Countergambit 3.dxe5,D08,0,0,1,1,1.0
+White,Queens Gambit Declined Albin Countergambit 3.dxe5 d4 4.Nf3 Nc6,D08,0,1,0,1,0.0
+White,Queens Gambit Declined Austrian Gusev Countergambit 4.Nf3,D06,0,0,2,2,1.0
+White,Queens Gambit Declined Austrian Variation,D06,1,7,6,14,0.42857142857142855
+White,Queens Gambit Declined Austrian Variation 3.cxd5 Qxd5 4.Nf3 cxd4,D06,0,0,1,1,1.0
+White,Queens Gambit Declined Baltic Defense,D06,0,3,0,3,0.0
+White,Queens Gambit Declined Baltic Defense 3.Nc3,D06,0,1,4,5,0.8
+White,Queens Gambit Declined Baltic Defense 3.Nc3 e6,D06,1,2,0,3,0.0
+White,Queens Gambit Declined Baltic Defense 3.Nc3 e6 4.Nf3,D06,1,1,5,7,0.7142857142857143
+White,Queens Gambit Declined Baltic Defense 3.Nc3 e6 4.Nf3 Nf6,D06,0,1,0,1,0.0
+White,Queens Gambit Declined Baltic Defense 3.Nc3 e6 4.Nf3 Nf6 5.Bg5,D06,1,5,6,12,0.5
+White,Queens Gambit Declined Baltic Defense 3.Nc3 e6 4.cxd5 exd5,D06,0,0,1,1,1.0
+White,Queens Gambit Declined Baltic Defense 3.Nf3,D06,0,2,2,4,0.5
+White,Queens Gambit Declined Baltic Defense 3.Nf3 e6,D06,0,2,0,2,0.0
+White,Queens Gambit Declined Baltic Pseudo Chigorin Defense,D02,0,0,1,1,1.0
+White,Queens Gambit Declined Baltic Pseudo Chigorin Defense 5.Bf4,D06,0,1,0,1,0.0
+White,Queens Gambit Declined Baltic Pseudo Slav Defense,D02,0,2,5,7,0.7142857142857143
+White,Queens Gambit Declined Baltic Pseudo Slav Defense 5.Qb3,D11,1,0,0,1,0.0
+White,Queens Gambit Declined Cambridge Springs Defense,D52,0,0,1,1,1.0
+White,Queens Gambit Declined Catalan Opening,D30,0,1,1,2,0.5
+White,Queens Gambit Declined Catalan Opening,E00,0,2,10,12,0.8333333333333334
+White,Queens Gambit Declined Catalan Opening 4,D30,0,4,2,6,0.3333333333333333
+White,Queens Gambit Declined Catalan Opening 4,E00,0,4,4,8,0.5
+White,Queens Gambit Declined Charousek Variation,A13,0,3,2,5,0.4
+White,Queens Gambit Declined Charousek Variation,D31,0,1,1,2,0.5
+White,Queens Gambit Declined Charousek Variation 4.Nf3 Nf6 5.Bg5 Nbd7 6.cxd5,D31,0,1,0,1,0.0
+White,Queens Gambit Declined Chigorin Defense,D07,0,4,4,8,0.5
+White,Queens Gambit Declined Chigorin Defense 3.Nc3,D07,0,2,1,3,0.3333333333333333
+White,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6,D07,0,2,2,4,0.5
+White,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6 4.Nf3,D07,1,1,2,4,0.5
+White,Queens Gambit Declined Chigorin Defense 3.Nc3 dxc4,D07,2,12,11,25,0.44
+White,Queens Gambit Declined Chigorin Defense 3.Nc3 dxc4 4.d5,D07,0,0,1,1,1.0
+White,Queens Gambit Declined Chigorin Defense 3.Nf3,D07,0,7,8,15,0.5333333333333333
+White,Queens Gambit Declined Chigorin Defense 3.Nf3 e6,D07,0,7,9,16,0.5625
+White,Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3,D07,0,1,2,3,0.6666666666666666
+White,Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3 Nf6 5.Bg5,D07,0,4,7,11,0.6363636363636364
+White,Queens Gambit Declined Chigorin Exchange Variation 4.Nf3 e5 5.Nc3,D07,0,1,0,1,0.0
+White,Queens Gambit Declined Chigorin Janowski Variation,D07,0,5,2,7,0.2857142857142857
+White,Queens Gambit Declined Chigorin Janowski Variation 4,D07,0,8,6,14,0.42857142857142855
+White,Queens Gambit Declined Chigorin Lazard Gambit,D06,0,1,2,3,0.6666666666666666
+White,Queens Gambit Declined Chigorin Main Line,D07,0,3,1,4,0.25
+White,Queens Gambit Declined Chigorin Main Line 4.Nc3 e6 5.Bg5,D07,0,1,0,1,0.0
+White,Queens Gambit Declined Chigorin Main Line 4.Nc3 e6 5.cxd5 exd5,D07,0,1,0,1,0.0
+White,Queens Gambit Declined Chigorin Main Line 4.Nc3 e6 5.cxd5 exd5 6.Bf4,D07,0,0,1,1,1.0
+White,Queens Gambit Declined Chigorin Main Line 4.Nc3 e6 5.e3 Nf6,D07,0,0,1,1,1.0
+White,Queens Gambit Declined Chigorin Main Line 4.cxd5,D07,0,3,8,11,0.7272727272727273
+White,Queens Gambit Declined Chigorin Tartakower Gambit,D06,1,1,1,3,0.3333333333333333
+White,Queens Gambit Declined Chigorin Tartakower Gambit 4.cxd5 Nxd4,D06,0,1,0,1,0.0
+White,Queens Gambit Declined Chigorin Tartakower Gambit 4.cxd5 Nxd4 5.e3,D06,0,0,1,1,1.0
+White,Queens Gambit Declined Chigorin Tartakower Gambit 4.cxd5 Nxd4 5.e3 Nf5 6.Nf3,D06,0,1,0,1,0.0
+White,Queens Gambit Declined Exchange Positional Line,D35,0,1,3,4,0.75
+White,Queens Gambit Declined Exchange Positional Line 5,D35,0,6,6,12,0.5
+White,Queens Gambit Declined Exchange Variation,D35,0,1,2,3,0.6666666666666666
+White,Queens Gambit Declined Exchange Variation 4,D35,0,21,13,34,0.38235294117647056
+White,Queens Gambit Declined Harrwitz Attack,D35,0,3,3,6,0.5
+White,Queens Gambit Declined Harrwitz Orthodox Defense 7.Bd3,D37,0,1,0,1,0.0
+White,Queens Gambit Declined Harrwitz Orthodox Defense 7.Bd3 Nbd7,D37,0,2,0,2,0.0
+White,Queens Gambit Declined Harrwitz Two Knights Defense,D37,0,0,1,1,1.0
+White,Queens Gambit Declined Lasker Defense,D57,0,1,0,1,0.0
+White,Queens Gambit Declined Marshall Defense 3.Nc3,D06,1,3,7,11,0.6363636363636364
+White,Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5,D06,0,1,0,1,0.0
+White,Queens Gambit Declined Marshall Defense 3.cxd5 Qxd5 4.Nc3,D06,0,1,0,1,0.0
+White,Queens Gambit Declined Modern Knight Defense,D51,0,1,0,1,0.0
+White,Queens Gambit Declined Modern Knight Defense,D52,0,0,3,3,1.0
+White,Queens Gambit Declined Modern Knight Defense 5.Nf3,D51,0,1,0,1,0.0
+White,Queens Gambit Declined Modern Knight Defense 5.Nf3 c6,D52,0,1,0,1,0.0
+White,Queens Gambit Declined Modern Knight Defense 5.Nf3 c6 6.cxd5,D52,0,1,0,1,0.0
+White,Queens Gambit Declined Modern Knight Defense Manhattan Variation 6.Nf3,D51,0,0,1,1,1.0
+White,Queens Gambit Declined Modern Variation,D50,0,0,1,1,1.0
+White,Queens Gambit Declined Modern Variation,D53,1,2,6,9,0.6666666666666666
+White,Queens Gambit Declined Modern Variation,D55,0,5,4,9,0.4444444444444444
+White,Queens Gambit Declined Modern Variation 4,D50,0,4,5,9,0.5555555555555556
+White,Queens Gambit Declined Modern Variation 4,D53,0,8,16,24,0.6666666666666666
+White,Queens Gambit Declined Neo Orthodox Variation 7.Bh4,D55,0,0,1,1,1.0
+White,Queens Gambit Declined Orthodox Botvinnik Variation 7,D60,0,0,1,1,1.0
+White,Queens Gambit Declined Orthodox Defense,D60,0,1,0,1,0.0
+White,Queens Gambit Declined Orthodox Defense 7.cxd5 exd5 8.Bd3,D60,0,1,0,1,0.0
+White,Queens Gambit Declined Orthodox Defense 7.cxd5 exd5 8.Bd3 c6,D60,0,0,1,1,1.0
+White,Queens Gambit Declined Orthodox Henneberger Karlsbad Variation 8,D63,0,1,0,1,0.0
+White,Queens Gambit Declined Pseudo Tarrasch Defense,D30,1,8,15,24,0.625
+White,Queens Gambit Declined Pseudo Tarrasch Defense 4.cxd5,D30,0,2,1,3,0.3333333333333333
+White,Queens Gambit Declined Pseudo Tarrasch Defense 4.cxd5 exd5,D30,0,0,1,1,1.0
+White,Queens Gambit Declined Pseudo Tarrasch Defense 4.cxd5 exd5 5.g3 Nc6 6.Bg2,D30,0,1,0,1,0.0
+White,Queens Gambit Declined Pseudo Tarrasch Defense 4.g3,D30,0,1,1,2,0.5
+White,Queens Gambit Declined Pseudo Tarrasch Defense 4.g3 Nf6 5.cxd5 Nxd5 6.Bg2,D30,0,0,1,1,1.0
+White,Queens Gambit Declined Pseudo Tarrasch Defense 4.g3 Nf6 5.cxd5 exd5 6.Bg2,D30,0,1,0,1,0.0
+White,Queens Gambit Declined Queens Knight Variation,D31,1,8,3,12,0.25
+White,Queens Gambit Declined Queens Knight Variation 3,D31,0,13,34,47,0.723404255319149
+White,Queens Gambit Declined Queens Knight Variation 3,D35,0,1,0,1,0.0
+White,Queens Gambit Declined Ragozin Defense,D38,0,3,2,5,0.4
+White,Queens Gambit Declined Ragozin Defense 5.Bg5,D38,0,2,4,6,0.6666666666666666
+White,Queens Gambit Declined Ragozin Defense 5.Bg5 Nbd7 6.cxd5 exd5 7.e3,D38,0,0,1,1,1.0
+White,Queens Gambit Declined Ragozin Defense 5.Bg5 O O,D38,0,1,0,1,0.0
+White,Queens Gambit Declined Ragozin Defense 5.Bg5 h6 6.Bh4,D38,1,0,2,3,0.6666666666666666
+White,Queens Gambit Declined Ragozin Defense 5.a3 Bxc3 6.bxc3,D38,0,0,1,1,1.0
+White,Queens Gambit Declined Ragozin Defense 5.cxd5,D38,0,1,2,3,0.6666666666666666
+White,Queens Gambit Declined Ragozin Defense 5.cxd5 exd5,D38,0,1,0,1,0.0
+White,Queens Gambit Declined Ragozin Defense 5.cxd5 exd5 6.Bg5,D38,0,2,1,3,0.3333333333333333
+White,Queens Gambit Declined Ragozin Defense 5.cxd5 exd5 6.Bg5 O O,D38,0,0,1,1,1.0
+White,Queens Gambit Declined Ragozin Defense 5.cxd5 exd5 6.Bg5 O O 7.e3,D38,0,2,1,3,0.3333333333333333
+White,Queens Gambit Declined Ragozin Defense 5.cxd5 exd5 6.Bg5 h6 7.Bh4,D38,0,0,1,1,1.0
+White,Queens Gambit Declined Ragozin Defense 5.g3 dxc4 6.Bg2,D38,0,1,2,3,0.6666666666666666
+White,Queens Gambit Declined Ragozin Vienna Variation,D39,0,0,1,1,1.0
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order,D31,0,7,5,12,0.4166666666666667
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.Nf3,D31,0,5,2,7,0.2857142857142857
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.Nf3 Nd7,D31,0,1,0,1,0.0
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.cxd5,D31,0,1,3,4,0.75
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.cxd5 exd5 5.Nf3,D31,0,1,0,1,0.0
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.cxd5 exd5 5.Nf3 Bd6,D31,0,1,0,1,0.0
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.cxd5 exd5 5.Nf3 Bd6 6.Bg5,D31,0,0,1,1,1.0
+White,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.cxd5 exd5 5.Nf3 Bf5,D31,0,0,1,1,1.0
+White,Queens Gambit Declined Semi Tarrasch Defense 5.cxd5,D50,0,0,1,1,1.0
+White,Queens Gambit Declined Semi Tarrasch Main Line,D41,0,3,2,5,0.4
+White,Queens Gambit Declined Semi Tarrasch Main Line 5,D40,0,2,0,2,0.0
+White,Queens Gambit Declined Semi Tarrasch Main Line 5,D41,0,0,1,1,1.0
+White,Queens Gambit Declined Semi Tarrasch Main Line Pillsbury Variation,D42,0,1,0,1,0.0
+White,Queens Gambit Declined Semi Tarrasch Pillsbury Primitive Pillsbury Variation,D50,0,0,1,1,1.0
+White,Queens Gambit Declined Semi Tarrasch Pillsbury Variation,D40,1,5,3,9,0.3333333333333333
+White,Queens Gambit Declined Semi Tarrasch Pillsbury Variation 5,D50,0,3,2,5,0.4
+White,Queens Gambit Declined Tartakower Exchange Variation 9.Bd3 Bb7 10.O O Nbd7 11.Rc1,D58,0,0,1,1,1.0
+White,Queens Gambit Declined Three Knights Barmen Variation 5.Bf4 c6 6.e3,D37,1,0,0,1,0.0
+White,Queens Gambit Declined Three Knights Barmen Variation 5.Bf4 c6 6.e3 Be7 7.Bd3,D37,0,1,0,1,0.0
+White,Queens Gambit Declined Three Knights Harrwitz Attack 5,D37,0,2,0,2,0.0
+White,Queens Gambit Declined Three Knights Semi Tarrasch Defense,D40,0,2,0,2,0.0
+White,Queens Gambit Declined Three Knights Variation,D37,0,1,0,1,0.0
+White,Queens Gambit Declined Three Knights Variation 4,D37,0,2,3,5,0.6
+White,Queens Gambit Declined Three Knights Vienna Variation,D44,1,1,2,4,0.5
+White,Queens Gambit Declined Three Knights Vienna Variation 5.Bg5,D44,0,3,5,8,0.625
+White,Queens Gambit Declined Three Knights Vienna Variation 5.e4,D44,0,1,0,1,0.0
+White,Queens Gambit Declined Three Knights Vienna Variation 5.e4 Bb4,D44,0,1,0,1,0.0
+White,Queens Gambit Declined Three Knights Vienna Variation 5.e4 Bb4 6.Bg5,D44,0,1,0,1,0.0
+White,Queens Gambit Declined Three Knights Vienna Variation 5.e4 Bb4 6.Bxc4,D44,0,1,0,1,0.0
+White,Queens Gambit Declined Traditional Capablanca Duras Variation,D30,0,0,1,1,1.0
+White,Queens Gambit Declined Traditional Capablanca Duras Variation 5.Bxf6 Qxf6,D30,0,0,1,1,1.0
+White,Queens Gambit Declined Traditional Variation,D30,0,0,1,1,1.0
+White,Queens Gambit Declined Traditional Variation 4,D30,0,2,2,4,0.5
+White,Queens Indian Defense Fianchetto Anti Queens Indian System,E17,0,0,1,1,1.0
+White,Queens Indian Defense Fianchetto Anti Queens Indian System 6,E17,0,0,1,1,1.0
+White,Queens Indian Defense Fianchetto Classical Nimzowitsch Line,E18,0,2,1,3,0.3333333333333333
+White,Queens Indian Defense Fianchetto Classical Nimzowitsch Line 8.cxd5 Nxd5,E18,0,1,1,2,0.5
+White,Queens Indian Defense Fianchetto Classical Nimzowitsch Line 8.cxd5 exd5,E18,0,1,1,2,0.5
+White,Queens Indian Defense Fianchetto Classical Traditional Variation,E18,0,2,0,2,0.0
+White,Queens Indian Defense Fianchetto Classical Traditional Variation 7,E18,0,2,1,3,0.3333333333333333
+White,Queens Indian Defense Fianchetto Classical Variation,E17,0,2,1,3,0.3333333333333333
+White,Queens Indian Defense Fianchetto Classical Variation 6,E17,1,3,3,7,0.42857142857142855
+White,Queens Indian Defense Fianchetto Samisch Variation,E15,0,1,0,1,0.0
+White,Queens Indian Defense Fianchetto Traditional Line 5.Bg2 d5 6.O O,E15,0,5,4,9,0.4444444444444444
+White,Queens Indian Defense Fianchetto Variation 4,E15,0,3,0,3,0.0
+White,Queens Indian Defense Kasparov Variation,E13,0,0,1,1,1.0
+White,Queens Indian Defense Kasparov Variation 4,E12,0,2,2,4,0.5
+White,Queens Pawn Opening,A40,0,3,1,4,0.25
+White,Queens Pawn Opening,A41,0,19,16,35,0.45714285714285713
+White,Queens Pawn Opening 1,A40,0,7,6,13,0.46153846153846156
+White,Queens Pawn Opening 1,A41,0,1,1,2,0.5
+White,Queens Pawn Opening 1,D00,0,1,0,1,0.0
+White,Queens Pawn Opening Accelerated London System,D00,0,1,0,1,0.0
+White,Queens Pawn Opening Anglo Slav Opening 3.Nc3,A41,0,5,1,6,0.16666666666666666
+White,Queens Pawn Opening Anti Torre Attack,D02,0,9,6,15,0.4
+White,Queens Pawn Opening Anti Torre Attack 3.Ne5,D02,0,7,3,10,0.3
+White,Queens Pawn Opening Blackmar Diemer Euwe Defense,D00,0,0,1,1,1.0
+White,Queens Pawn Opening Blackmar Diemer Euwe Duthilleul Gambit,D00,0,1,0,1,0.0
+White,Queens Pawn Opening Blackmar Diemer Ryder Gambit,D00,0,1,0,1,0.0
+White,Queens Pawn Opening Blackmar Diemer Ryder Tautvaisas Defense,D00,0,0,1,1,1.0
+White,Queens Pawn Opening Blackmar Diemer Zeller Defense 4.f3 exf3 5.Qxf3 Bc8,D00,0,1,0,1,0.0
+White,Queens Pawn Opening Blackmar Gambit,D00,1,0,1,2,0.5
+White,Queens Pawn Opening Blackmar Gambit 2,D00,0,3,3,6,0.5
+White,Queens Pawn Opening Chigorin Irish Gambit,D00,0,1,0,1,0.0
+White,Queens Pawn Opening Chigorin Variation 2,D00,0,2,2,4,0.5
+White,Queens Pawn Opening English Defense,A40,0,0,1,1,1.0
+White,Queens Pawn Opening English Defense 3.Nc3 Bb4,A40,0,0,1,1,1.0
+White,Queens Pawn Opening English Defense 3.Nc3 Bb7,A40,0,3,3,6,0.5
+White,Queens Pawn Opening English Defense 3.Nc3 Bb7 4.Nf3 Bb4,A40,0,1,4,5,0.8
+White,Queens Pawn Opening English Defense 3.Nc3 Bb7 4.Nf3 f5,A40,0,1,0,1,0.0
+White,Queens Pawn Opening English Defense 3.Nf3,A40,0,0,1,1,1.0
+White,Queens Pawn Opening English Defense 3.Nf3 Bb7,A40,0,1,2,3,0.6666666666666666
+White,Queens Pawn Opening English Defense 3.Nf3 Bb7 4.Nc3,A40,0,5,3,8,0.375
+White,Queens Pawn Opening English Defense 3.Nf3 Bb7 4.g3,A40,0,0,1,1,1.0
+White,Queens Pawn Opening English Rat Defense,A41,0,1,0,1,0.0
+White,Queens Pawn Opening English Rat Defense 3.Nc3,A41,0,1,0,1,0.0
+White,Queens Pawn Opening English Rat Defense 3.Nc3 exd4 4.Qxd4,A41,0,0,1,1,1.0
+White,Queens Pawn Opening English Rat Defense 3.Nc3 exd4 4.Qxd4 Nc6,A41,0,1,0,1,0.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 Nc6,A41,0,1,0,1,0.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 Nd7,A41,0,0,1,1,1.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 Nd7 4.Nc3,A41,0,0,1,1,1.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 Nd7 4.Nc3 c6,A41,0,1,0,1,0.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 e4,A41,0,0,1,1,1.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 exd4,A41,0,0,1,1,1.0
+White,Queens Pawn Opening English Rat Defense 3.Nf3 exd4 4.Nxd4,A41,0,1,3,4,0.75
+White,Queens Pawn Opening English Rat Defense 3.d5,A41,0,1,2,3,0.6666666666666666
+White,Queens Pawn Opening English Rat Defense 3.dxe5,A41,1,2,1,4,0.25
+White,Queens Pawn Opening Horwitz Defense,A40,1,1,11,13,0.8461538461538461
+White,Queens Pawn Opening Horwitz Defense 2.Nf3,A40,2,16,16,34,0.47058823529411764
+White,Queens Pawn Opening Horwitz Defense 2.Nf3 b6,A40,0,0,1,1,1.0
+White,Queens Pawn Opening Horwitz Defense 2.Nf3 b6 3.g3 Bb7 4.Bg2,A40,0,3,3,6,0.5
+White,Queens Pawn Opening Horwitz Defense 2.Nf3 c5,A40,1,2,2,5,0.4
+White,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.c4 cxd4 4.Nxd4,A40,0,1,1,2,0.5
+White,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.g3 Nc6 4.Bg2,A40,0,1,2,3,0.6666666666666666
+White,Queens Pawn Opening Horwitz Defense 2.Nf3 c5 3.g3 cxd4 4.Nxd4,A40,0,2,2,4,0.5
+White,Queens Pawn Opening Horwitz Defense 2.c4,A40,0,8,12,20,0.6
+White,Queens Pawn Opening Horwitz Defense 2.c4 c5,A40,0,8,12,20,0.6
+White,Queens Pawn Opening Horwitz Defense 2.g3 c5 3.Nf3,A40,0,1,0,1,0.0
+White,Queens Pawn Opening Keres Transpositional Variation,E00,0,0,1,1,1.0
+White,Queens Pawn Opening Krause Variation,D02,0,1,1,2,0.5
+White,Queens Pawn Opening Krause Variation 3.c4,D02,0,1,3,4,0.75
+White,Queens Pawn Opening Krause Variation 3.c4 cxd4,D02,0,2,0,2,0.0
+White,Queens Pawn Opening Krause Variation 3.dxc5,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Krause Variation 3.e3 Nc6 4.c4,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Krause Variation 3.e3 Nc6 4.c4 e6 5.Nc3,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.c4,D02,0,1,0,1,0.0
+White,Queens Pawn Opening Krause Variation 3.e3 Nf6 4.c4 cxd4 5.exd4,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Mikenas Defense 2.Nf3,A40,0,6,8,14,0.5714285714285714
+White,Queens Pawn Opening Mikenas Defense 2.Nf3 d6,A40,0,2,2,4,0.5
+White,Queens Pawn Opening Mikenas Defense 2.Nf3 d6 3.c4,A40,0,1,2,3,0.6666666666666666
+White,Queens Pawn Opening Mikenas Defense 2.c4,A40,0,1,0,1,0.0
+White,Queens Pawn Opening Mikenas Lithuanian Variation,A40,0,1,0,1,0.0
+White,Queens Pawn Opening Mikenas Lithuanian Variation 4.e4,A40,0,0,1,1,1.0
+White,Queens Pawn Opening Polish Defense,A40,0,0,1,1,1.0
+White,Queens Pawn Opening Polish Defense 2.Nf3 Bb7,A40,0,1,1,2,0.5
+White,Queens Pawn Opening Polish Defense 2.e4,A40,0,0,1,1,1.0
+White,Queens Pawn Opening Pseudo Catalan Variation,D02,3,34,36,73,0.4931506849315068
+White,Queens Pawn Opening Pseudo Catalan Variation 3,D02,1,15,37,53,0.6981132075471698
+White,Queens Pawn Opening Rossolimo Variation 3.g3,A41,0,1,0,1,0.0
+White,Queens Pawn Opening St George Defense 2.c4,A40,0,0,1,1,1.0
+White,Queens Pawn Opening St George Defense 2.c4 b5,A40,0,0,2,2,1.0
+White,Queens Pawn Opening Symmetrical Variation,D02,1,1,0,2,0.0
+White,Queens Pawn Opening Symmetrical Variation 3.c3 e6,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Symmetrical Variation 3.c4,D02,0,4,11,15,0.7333333333333333
+White,Queens Pawn Opening Symmetrical Variation 3.c4 c5,D02,0,1,0,1,0.0
+White,Queens Pawn Opening Tartakower Variation,A41,0,12,9,21,0.42857142857142855
+White,Queens Pawn Opening Tartakower Variation 2,A41,0,0,2,2,1.0
+White,Queens Pawn Opening Torre Attack,D03,0,1,0,1,0.0
+White,Queens Pawn Opening Torre Attack 3,D03,0,0,4,4,1.0
+White,Queens Pawn Opening Wade Defense 3.c4 Bxf3 4.gxf3,A41,0,2,0,2,0.0
+White,Queens Pawn Opening Wade Defense 3.e4 Nd7,A41,0,0,1,1,1.0
+White,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4,D02,0,0,3,3,1.0
+White,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Bf5,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Bg4 4.e3 e6,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6,D02,0,4,0,4,0.0
+White,Queens Pawn Opening Zukertort Chigorin Variation 3.e3 Bg4,D02,0,0,1,1,1.0
+White,Queens Pawn Opening Zukertort Chigorin Variation 3.g3,D02,0,4,10,14,0.7142857142857143
+White,Queens Pawn Opening Zukertort Variation,D02,1,16,22,39,0.5641025641025641
+White,Queens Pawn Opening Zukertort Variation 2,D02,0,16,18,34,0.5294117647058824
+White,Reti Opening,A04,1,63,78,142,0.5492957746478874
+White,Reti Opening 1,A05,0,1,0,1,0.0
+White,Reti Opening 1,A06,0,19,30,49,0.6122448979591837
+White,Reti Opening Black Mustang Defense 2.c4,A04,0,1,1,2,0.5
+White,Reti Opening Black Mustang Defense 2.c4 e5,A04,0,3,1,4,0.25
+White,Reti Opening Black Mustang Defense 2.g3,A04,0,8,18,26,0.6923076923076923
+White,Reti Opening Black Mustang Defense 2.g3 e5,A04,1,49,35,85,0.4117647058823529
+White,Reti Opening Black Mustang Defense 2.g3 e5 3.d3,A04,0,9,5,14,0.35714285714285715
+White,Reti Opening Black Mustang Defense 2.g3 e5 3.d3 d5,A04,0,0,2,2,1.0
+White,Reti Opening Dutch Lisitsyn Rydel Bloodgood Gambit,A04,0,2,0,2,0.0
+White,Reti Opening Dutch Variation,A04,1,4,5,10,0.5
+White,Reti Opening Dutch Variation 2.g3,A04,0,2,1,3,0.3333333333333333
+White,Reti Opening Dutch Variation 2.g3 Nf6 3.Bg2,A04,0,0,3,3,1.0
+White,Reti Opening Dutch Variation 2.g3 Nf6 3.Bg2 d6,A04,0,1,1,2,0.5
+White,Reti Opening Dutch Variation 2.g3 Nf6 3.Bg2 e6 4.O O,A04,0,0,3,3,1.0
+White,Reti Opening Kings Indian Attack,A05,1,14,4,19,0.21052631578947367
+White,Reti Opening Kings Indian Attack 2,A05,1,38,24,63,0.38095238095238093
+White,Reti Opening Kings Indian Attack Spassky Variation 3.Bg2 Bb7 4.O O e6 5.d4,A05,0,0,1,1,1.0
+White,Reti Opening Kings Indian Attack Symmetrical Defense,A05,0,3,2,5,0.4
+White,Reti Opening Kings Indian Attack Symmetrical Defense 3.Bg2 Bg7,A05,1,1,1,3,0.3333333333333333
+White,Reti Opening Kings Indian Attack Symmetrical Defense 3.Bg2 Bg7 4.O O,A05,0,2,0,2,0.0
+White,Reti Opening Kings Indian Attack Symmetrical Defense 3.Bg2 Bg7 4.O O d5 5.c4,A15,0,1,0,1,0.0
+White,Reti Opening Kingside Fianchetto Variation,A04,1,5,3,9,0.3333333333333333
+White,Reti Opening Kingside Fianchetto Variation 2.c4 Bg7 3.Nc3 c5,A04,0,1,0,1,0.0
+White,Reti Opening Kingside Fianchetto Variation 2.c4 Bg7 3.g3,A04,0,0,1,1,1.0
+White,Reti Opening Kingside Fianchetto Variation 2.e4 Bg7,A04,1,0,1,2,0.5
+White,Reti Opening Kingside Fianchetto Variation 2.g3,A04,0,5,3,8,0.375
+White,Reti Opening Kingside Fianchetto Variation 2.g3 Bg7 3.Bg2,A04,0,20,16,36,0.4444444444444444
+White,Reti Opening Kingside Fianchetto Variation 2.g3 Bg7 3.Bg2 d6 4.O O,A04,0,4,4,8,0.5
+White,Reti Opening Kingside Fianchetto Variation 2.g3 Bg7 3.Bg2 e5 4.O O,A04,0,0,2,2,1.0
+White,Reti Opening Kingside Fianchetto Variation 2.g3 Bg7 3.d4,A04,0,3,4,7,0.5714285714285714
+White,Reti Opening Old Indian Attack,A06,0,2,1,3,0.3333333333333333
+White,Reti Opening Pirc Invitation 2.c4,A04,0,1,3,4,0.75
+White,Reti Opening Pirc Invitation 2.c4 e5,A04,0,0,1,1,1.0
+White,Reti Opening Pirc Invitation 2.g3,A04,1,19,16,36,0.4444444444444444
+White,Reti Opening Pirc Invitation 2.g3 e5,A04,0,0,1,1,1.0
+White,Reti Opening Pirc Invitation 2.g3 e5 3.Bg2,A04,1,27,24,52,0.46153846153846156
+White,Reti Opening Pirc Invitation 2.g3 e5 3.Bg2 f5,A04,0,3,4,7,0.5714285714285714
+White,Reti Opening Pirc Invitation 2.g3 e5 3.d3,A04,1,3,3,7,0.42857142857142855
+White,Reti Opening Pirc Invitation 2.g3 e5 3.d3 f5 4.Bg2,A04,0,1,1,2,0.5
+White,Reti Opening Pirc Invitation 2.g3 g6 3.Bg2,A04,0,0,2,2,1.0
+White,Reti Opening Queens Gambit Invitation,A04,1,1,0,2,0.0
+White,Reti Opening Queens Gambit Invitation 2.g3,A04,3,27,40,70,0.5714285714285714
+White,Reti Opening Queens Gambit Invitation 2.g3 b6 3.Bg2,A04,0,1,2,3,0.6666666666666666
+White,Reti Opening Queens Gambit Invitation 2.g3 b6 3.Bg2 Bb7 4.O O,A04,2,12,17,31,0.5483870967741935
+White,Reti Opening Queens Gambit Invitation 2.g3 b6 3.Bg2 Bb7 4.c4,A04,0,1,0,1,0.0
+White,Reti Opening Queens Gambit Invitation 2.g3 c5 3.Bg2,A04,1,12,23,36,0.6388888888888888
+White,Reti Opening Queens Gambit Invitation 2.g3 d5 3.Bg2 c5,A04,1,1,0,2,0.0
+White,Reti Opening Queens Gambit Invitation 2.g3 d5 3.Bg2 c5 4.O O,A04,1,3,4,8,0.5
+White,Reti Opening Queens Gambit Invitation 2.g3 f5 3.Bg2,A04,0,2,1,3,0.3333333333333333
+White,Reti Opening Queenside Fianchetto Variation,A04,0,10,11,21,0.5238095238095238
+White,Reti Opening Queenside Fianchetto Variation 2.d4,A04,0,3,2,5,0.4
+White,Reti Opening Queenside Fianchetto Variation 2.d4 Bb7,A04,0,3,2,5,0.4
+White,Reti Opening Queenside Fianchetto Variation 2.d4 Bb7 3.c4,A04,0,5,7,12,0.5833333333333334
+White,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7,A04,0,6,0,6,0.0
+White,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7 3.Nc3,A04,0,2,1,3,0.3333333333333333
+White,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7 3.Nc3 e6,A04,0,1,0,1,0.0
+White,Reti Opening Queenside Fianchetto Variation 2.g3,A04,0,2,0,2,0.0
+White,Reti Opening Queenside Fianchetto Variation 2.g3 Bb7,A04,0,1,0,1,0.0
+White,Reti Opening Queenside Fianchetto Variation 2.g3 Bb7 3.Bg2,A04,0,13,20,33,0.6060606060606061
+White,Reti Opening Queenside Fianchetto Variation 2.g3 Bb7 3.Bg2 g6,A04,0,0,2,2,1.0
+White,Reti Opening Queenside Fianchetto Variation 2.g3 Bb7 3.Bg2 g6 4.O O,A04,0,1,1,2,0.5
+White,Reti Opening Quiet System 2,A04,0,0,1,1,1.0
+White,Reti Opening Reti Gambit,A09,0,4,4,8,0.5
+White,Reti Opening Reti Gambit Accepted,A09,1,9,13,23,0.5652173913043478
+White,Reti Opening Reti Gambit Accepted 3.Qa4,A09,0,1,0,1,0.0
+White,Reti Opening Reti Gambit Accepted 3.e3,A09,0,0,3,3,1.0
+White,Reti Opening Reti Gambit Accepted 3.e3 Nf6 4.Bxc4,A09,0,1,0,1,0.0
+White,Reti Opening Reti Gambit Declined Advance Variation,A09,0,14,8,22,0.36363636363636365
+White,Reti Opening Reti Gambit Declined Advance Variation 3.d3,A09,0,3,2,5,0.4
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3,A09,0,0,1,1,1.0
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 Nc6 4.Bg2,A09,0,1,0,1,0.0
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 Nc6 4.Bg2 e5,A09,0,1,0,1,0.0
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 Nc6 4.d3 e5 5.Bg2,A09,0,2,2,4,0.5
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 c5 4.Bg2 Nc6,A09,0,1,0,1,0.0
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 c5 4.Bg2 Nc6 5.O O,A09,0,1,1,2,0.5
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 c5 4.Bg2 Nc6 5.d3,A09,0,1,2,3,0.6666666666666666
+White,Reti Opening Reti Gambit Declined Advance Variation 3.g3 g6 4.Bg2 Bg7 5.d3,A09,0,2,0,2,0.0
+White,Reti Opening Sicilian Invitation,A04,4,35,23,62,0.3709677419354839
+White,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4,A04,1,14,5,20,0.25
+White,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4 d5,A04,0,2,1,3,0.3333333333333333
+White,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4 d5 4.g3,A04,0,2,1,3,0.3333333333333333
+White,Reti Opening Sicilian Invitation 2.g3,A04,1,18,17,36,0.4722222222222222
+White,Reti Opening Sicilian Invitation 2.g3 Nc6 3.Bg2,A04,3,17,10,30,0.3333333333333333
+White,Reti Opening Sicilian Invitation 2.g3 Nc6 3.Bg2 e5 4.O O,A04,0,5,4,9,0.4444444444444444
+White,Reti Opening Sicilian Invitation 2.g3 Nc6 3.Bg2 g6 4.O O,A04,0,0,1,1,1.0
+White,Reti Opening Sicilian Invitation 2.g3 Nc6 3.Bg2 g6 4.d4,A04,0,0,1,1,1.0
+White,Reti Opening Sicilian Invitation 2.g3 Nc6 3.d4 cxd4 4.Nxd4,A04,0,1,4,5,0.8
+White,Reti Opening Sicilian Invitation 2.g3 b6 3.Bg2,A04,0,0,1,1,1.0
+White,Reti Opening Sicilian Invitation 2.g3 b6 3.Bg2 Bb7 4.O O,A04,1,1,0,2,0.0
+White,Reti Opening Sicilian Invitation 2.g3 g6 3.Bg2 Bg7 4.O O,A04,0,1,1,2,0.5
+White,Reti Opening Sicilian Invitation 2.g3 g6 3.Bg2 Bg7 4.d4,A04,0,0,1,1,1.0
+White,Reti Opening Slav Invitation,A04,0,1,0,1,0.0
+White,Reti Opening Slav Invitation 2.g3,A04,1,4,4,9,0.4444444444444444
+White,Reti Opening Ware Defense,A04,0,1,2,3,0.6666666666666666
+White,Richter Veresov Attack Two Knights System 4,D00,0,0,1,1,1.0
+White,Ruy Lopez Opening Old Steinitz Defense,C62,1,0,0,1,0.0
+White,Saragossa Opening 1,A00,0,1,1,2,0.5
+White,Scandinavian Defense,B01,0,14,15,29,0.5172413793103449
+White,Scandinavian Defense 2.e5,B01,0,1,0,1,0.0
+White,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Nf3,B01,0,1,0,1,0.0
+White,Scandinavian Defense Modern Marshall Variation 4.c4 Nb6 5.Nf3,B01,0,0,1,1,1.0
+White,Scandinavian Defense Modern Variation 3.Nf3 Nxd5,B01,0,0,1,1,1.0
+White,Scotch Game,C45,0,1,3,4,0.75
+White,Scotch Game 3,C45,0,0,2,2,1.0
+White,Scotch Game Classical Variation,C45,0,1,0,1,0.0
+White,Scotch Game Dubois Reti Scotch Gambit,C55,0,1,0,1,0.0
+White,Scotch Game Goring Double Pawn Sacrifice Variation,C45,0,0,1,1,1.0
+White,Scotch Game Goring Double Pawn Sacrifice Variation 5,C45,2,6,8,16,0.5
+White,Scotch Game Goring Gambit 4,C45,0,1,1,2,0.5
+White,Scotch Game Goring Gambit Declined,C45,0,0,1,1,1.0
+White,Scotch Game Goring Main Line 6.Bc4,C45,1,1,0,2,0.0
+White,Scotch Game Goring Main Line 6.Bc4 d6,C45,0,1,0,1,0.0
+White,Scotch Game Goring Main Line Bardeleben Variation,C45,0,0,1,1,1.0
+White,Scotch Game Scotch Gambit,C45,1,4,10,15,0.6666666666666666
+White,Scotch Game Scotch Gambit Dubois Reti Defense,C45,0,4,1,5,0.2
+White,Scotch Game Scotch Gambit Dubois Reti Perreux Variation 5,C55,0,0,1,1,1.0
+White,Scotch Game Scotch Gambit Haxo Gambit 5.c3,C45,0,2,3,5,0.6
+White,Scotch Game Scotch Gambit Haxo Gambit 5.c3 d3,C45,0,0,1,1,1.0
+White,Scotch Game Scotch Gambit London Defense 5.c3,C45,0,0,1,1,1.0
+White,Scotch Game Scotch Gambit London Defense 5.c3 dxc3 6.bxc3,C45,0,1,1,2,0.5
+White,Semi Slav Defense,D43,1,3,0,4,0.0
+White,Semi Slav Defense 5.cxd5 cxd5 6.Bg5,D43,1,2,2,5,0.4
+White,Semi Slav Defense 5.cxd5 cxd5 6.Bg5 Be7,D43,0,3,4,7,0.5714285714285714
+White,Semi Slav Defense 5.cxd5 cxd5 6.Bg5 Be7 7.e3,D43,0,1,5,6,0.8333333333333334
+White,Semi Slav Defense 5.g3 Be7,D43,0,0,1,1,1.0
+White,Semi Slav Defense 5.g3 Nbd7,D43,0,1,0,1,0.0
+White,Semi Slav Defense 5.g3 Nbd7 6.Bg2 Be7 7.O O,D43,0,2,0,2,0.0
+White,Semi Slav Defense 5.g3 dxc4 6.Bg2 b5 7.Ne5,D43,0,0,1,1,1.0
+White,Semi Slav Defense Accepted,D44,0,0,1,1,1.0
+White,Semi Slav Defense Anti Meran Anti Moscow Gambit 6,D43,0,1,2,3,0.6666666666666666
+White,Semi Slav Defense Anti Meran Gambit,D43,1,1,1,3,0.3333333333333333
+White,Semi Slav Defense Anti Meran Gambit 5,D43,0,4,4,8,0.5
+White,Semi Slav Defense Main Line 5,D45,0,1,0,1,0.0
+White,Sicilian Defense,B20,0,1,0,1,0.0
+White,Sicilian Defense 2.Nf3,B27,0,0,1,1,1.0
+White,Sicilian Defense 2.Nf3 d6 3.d4 cxd4,B50,0,0,1,1,1.0
+White,Sicilian Defense Anti Qxd4 Move Order 4.dxc5,B50,0,0,1,1,1.0
+White,Sicilian Defense Bowdler Attack 2,B20,0,1,0,1,0.0
+White,Sicilian Defense French Variation,B40,0,1,0,1,0.0
+White,Sicilian Defense French Variation 3.Be2,B40,0,0,1,1,1.0
+White,Sicilian Defense Hyperaccelerated Dragon Fianchetto Variation 3,B27,0,1,1,2,0.5
+White,Sicilian Defense Hyperaccelerated Dragon Variation 3.d3 Bg7,B27,0,0,1,1,1.0
+White,Sicilian Defense Marshall Counterattack 4.exd5 exd5,B40,1,0,0,1,0.0
+White,Sicilian Defense McDonnell Attack,B21,0,1,0,1,0.0
+White,Sicilian Defense McDonnell Attack 2,B21,0,0,1,1,1.0
+White,Sicilian Defense Old Sicilian Variation,B30,0,0,1,1,1.0
+White,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3 a6,B30,0,0,1,1,1.0
+White,Sicilian Defense Old Sicilian Variation 3.d3 g6,B30,0,0,1,1,1.0
+White,Sicilian Defense Open,B30,0,2,0,2,0.0
+White,Sicilian Defense Open 3,B30,0,2,0,2,0.0
+White,Sicilian Defense Open Variation 4,B54,0,1,0,1,0.0
+White,Sicilian Defense Paulsen Basman Defense,B40,0,1,0,1,0.0
+White,Sicilian Defense Smith Morra Accepted Paulsen Formation 7.O O,B21,0,0,1,1,1.0
+White,Sicilian Defense Smith Morra Accepted Pin Defense,B21,1,1,0,2,0.0
+White,Sicilian Defense Smith Morra Accepted Scheveningen Formation 7.O O Be7,B21,0,1,0,1,0.0
+White,Sicilian Defense Smith Morra Accepted Scheveningen Formation 7.O O Nf6,B21,0,2,2,4,0.5
+White,Sicilian Defense Smith Morra Gambit,B21,0,3,0,3,0.0
+White,Sicilian Defense Smith Morra Gambit 2,B21,0,3,2,5,0.4
+White,Sicilian Defense Smith Morra Gambit Accepted,B21,0,1,1,2,0.5
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3,B21,0,2,5,7,0.7142857142857143
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Bc4,B21,0,2,1,3,0.3333333333333333
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3,B21,0,1,5,6,0.8333333333333334
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3 d6,B21,0,1,1,2,0.5
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4,B21,0,2,4,6,0.6666666666666666
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3 e6,B21,1,1,4,6,0.6666666666666666
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4,B21,0,2,0,2,0.0
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 d6 5.Bc4,B21,0,0,1,1,1.0
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 e6,B21,0,1,1,2,0.5
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 e6 5.Bc4,B21,0,0,1,1,1.0
+White,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3 e6 5.Nf3,B21,0,1,2,3,0.6666666666666666
+White,Sicilian Defense Smith Morra Gambit Declined Alapin Formation,B21,0,2,0,2,0.0
+White,Sicilian Defense Smith Morra Morphy Gambit,B21,0,0,1,1,1.0
+White,Sicilian Defense Taimanov Variation,B44,0,1,0,1,0.0
+White,Sicilian Defense Tartakower Variation,B53,1,2,2,5,0.4
+White,Slav Defense 3.Bf4,D10,0,0,1,1,1.0
+White,Slav Defense 3.Bf4 Nf6,D10,0,1,1,2,0.5
+White,Slav Defense 3.Nc3,D10,0,7,4,11,0.36363636363636365
+White,Slav Defense 3.Nc3 Nf6,D10,0,3,4,7,0.5714285714285714
+White,Slav Defense 3.Nc3 Nf6 4.Bg5,D10,0,4,4,8,0.5
+White,Slav Defense 3.Nc3 Nf6 4.Bg5 dxc4,D10,1,2,2,5,0.4
+White,Slav Defense 3.Nc3 dxc4,D10,0,6,2,8,0.25
+White,Slav Defense 3.Nc3 dxc4 4.e3 b5,D10,0,1,0,1,0.0
+White,Slav Defense Exchange Variation 3,D10,0,1,2,3,0.6666666666666666
+White,Slav Defense Modern Bishops Game,D11,0,7,4,11,0.36363636363636365
+White,Slav Defense Modern Bishops Game 4.Nc3,D11,0,0,1,1,1.0
+White,Slav Defense Modern Chameleon Variation 5.Bg5,D15,0,1,0,1,0.0
+White,Slav Defense Modern Chameleon Variation 5.cxd5 cxd5 6.Bg5,D15,0,1,1,2,0.5
+White,Slav Defense Modern Chameleon Variation 5.g3,D15,0,1,0,1,0.0
+White,Slav Defense Modern Exchange Variation,D11,0,4,4,8,0.5
+White,Slav Defense Modern Exchange Variation,D13,0,1,3,4,0.75
+White,Slav Defense Modern Exchange Variation 4,D13,0,8,13,21,0.6190476190476191
+White,Slav Defense Modern Geller Gambit 5,D15,0,0,1,1,1.0
+White,Slav Defense Modern Line,D11,3,57,38,98,0.3877551020408163
+White,Slav Defense Modern Line 3,D11,0,6,9,15,0.6
+White,Slav Defense Modern Quiet Pin Defense 5.Nc3 e6,D11,0,1,0,1,0.0
+White,Slav Defense Modern Quiet Pin Defense 5.h3 Bh5 6.Nc3 e6,D11,0,0,1,1,1.0
+White,Slav Defense Modern Quiet Schallopp Defense 5.Nc3 e6,D12,0,0,1,1,1.0
+White,Slav Defense Modern Quiet Schallopp Defense 5.Nc3 e6 6.Bd3,D12,0,1,0,1,0.0
+White,Slav Defense Modern Quiet Schallopp Defense 5.Nc3 e6 6.Be2 Nbd7 7.O O,D12,0,0,1,1,1.0
+White,Slav Defense Modern Schlechter Variation 5.g3 Bg7 6.Bg2,D15,0,1,0,1,0.0
+White,Slav Defense Modern Three Knights Variation,D15,0,6,3,9,0.3333333333333333
+White,Slav Defense Modern Three Knights Variation 4,D15,1,6,2,9,0.2222222222222222
+White,Slav Defense Modern Triangle Anti Noteboom Variation,D31,1,0,1,2,0.5
+White,Slav Defense Modern Triangle Noteboom Variation,D11,0,0,1,1,1.0
+White,Slav Defense Modern Triangle Noteboom Variation 5.e4 b5 6.a4,D31,0,0,2,2,1.0
+White,Slav Defense Modern Triangle System,D11,0,0,1,1,1.0
+White,Slav Defense Modern Triangle System 4.Bg5,D11,0,1,0,1,0.0
+White,Slav Defense Modern Triangle System 4.cxd5,D11,0,1,5,6,0.8333333333333334
+White,Slav Defense Modern Triangle System 4.cxd5 exd5,D11,0,0,1,1,1.0
+White,Slav Defense Modern Triangle System 4.g3 Bd6 5.Bg2,D11,0,1,0,1,0.0
+White,Slav Defense Modern Triangle System 4.g3 dxc4,D11,0,0,1,1,1.0
+White,Slav Defense Modern Triangle System 4.g3 dxc4 5.Bg2 b5,D11,0,1,1,2,0.5
+White,Slav Defense Modern Two Knights Attack,D15,0,2,1,3,0.3333333333333333
+White,Slav Defense Slav Gambit Alekhine Attack,D10,1,1,3,5,0.6
+White,Slav Defense Slav Gambit Alekhine Attack 4,D10,0,1,0,1,0.0
+White,Slav Defense Winawer Countergambit 4.cxd5,D10,0,0,1,1,1.0
+White,Tarrasch Defense,D32,0,3,4,7,0.5714285714285714
+White,Tarrasch Defense 4.Nf3,D32,0,1,1,2,0.5
+White,Tarrasch Defense 4.Nf3 Nc6,D32,0,1,1,2,0.5
+White,Tarrasch Defense 4.Nf3 Nc6 5.cxd5,D32,0,0,1,1,1.0
+White,Tarrasch Defense 4.Nf3 cxd4,D32,0,1,0,1,0.0
+White,Tarrasch Defense 4.Nf3 cxd4 5.Nxd4,D32,0,3,1,4,0.25
+White,Tarrasch Defense 4.Nf3 cxd4 5.Nxd4 e5,D32,0,0,1,1,1.0
+White,Tarrasch Defense 4.cxd5 exd5,D32,0,1,1,2,0.5
+White,Tarrasch Defense Schara Gambit 5.Qxd4,D32,0,1,0,1,0.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Carlsbad Advance Variation 10.Ne5,D34,0,1,0,1,0.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Carlsbad Endgame Variation,D34,0,0,1,1,1.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Carlsbad Endgame Variation 10.dxc5 Bxc5 11.Bxf6 Qxf6,D34,0,0,1,1,1.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Carlsbad Variation,D34,0,1,0,1,0.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Carlsbad Variation 9,D34,0,4,1,5,0.2
+White,Tarrasch Defense Two Knights Rubinstein Prague Main Line,D34,0,1,2,3,0.6666666666666666
+White,Tarrasch Defense Two Knights Rubinstein Prague Main Line 8.O O O O 9.Bf4,D34,0,1,0,1,0.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Main Line 8.O O O O 9.dxc5 Bxc5,D34,0,1,0,1,0.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Main Line 8.O O O O 9.dxc5 Bxc5 10.Bg5,D34,0,1,1,2,0.5
+White,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2,D33,1,0,0,1,0.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2 Be6 8.O O,D33,0,0,2,2,1.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2 cxd4 8.Nxd4,D33,0,0,1,1,1.0
+White,Tarrasch Defense Two Knights Rubinstein Prague Variation 7.Bg2 cxd4 8.Nxd4 Bc5,D33,0,0,1,1,1.0
+White,Tarrasch Defense Two Knights Variation,D32,0,3,2,5,0.4
+White,Tarrasch Defense Two Knights Variation 5,D32,0,1,2,3,0.6666666666666666
+White,Torre Attack 3,A46,0,1,0,1,0.0
+White,Torre Attack Fianchetto Defense,A48,0,1,0,1,0.0
+White,Undefined,A00,3,10,10,23,0.43478260869565216
+White,Van t Kruijs Opening,A00,0,0,1,1,1.0
+White,Van t Kruijs Opening 1,A00,0,0,2,2,1.0
+White,Ware Opening,A00,1,0,0,1,0.0

@@ -1,10 +1,40 @@
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
 *.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
 .venv/
 venv/
-.env
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
 .vscode/
+.idea/
 *.log
+
+# Large generated outputs — these can be re-created from PGNs.
+# Comment any line out if you want to commit a snapshot.
+data/outputs/games_with_errors.csv
+data/outputs/games_with_errors.csv.legacy.bak
+data/outputs/games_raw.csv
+
+# Worker / dev launcher logs (created by run-hangd.bat)
+data/logs/
+
+# Secrets / env
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# Web app build output (Phase C)
+web/.next/
+web/node_modules/
+web/out/

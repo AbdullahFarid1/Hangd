@@ -1,2 +1,6 @@
-pandas
-python-chess
+python-chess>=1.999
+pandas>=2.0
+
+# Phase B — analysis worker
+supabase>=2.0
+python-dotenv>=1.0
